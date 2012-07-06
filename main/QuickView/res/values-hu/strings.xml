@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gyorsnézet</string>
+    <string name="camera_toss">Töröl</string>
+    <string name="camera_share">Megosztás</string>
+    <string name="camera_set">Beállít, mint</string>
+    <string name="video_play">Lejátszás</string>
+    <string name="camera_history">Előzmények</string>
+    <string name="OK_STRING">OK</string>
+    <string name="gridview_cancelbutton_text">Mégse</string>
+    <string name="no_way_to_share_image">Nincs képmegosztó alkalmazás</string>
+    <string name="no_way_to_share_video">Nincs videómegosztó alkalmazás</string>
+    <string name="confirm_delete_title">Töröl</string>
+    <string name="confirm_delete_message">Törli a képet?</string>
+    <string name="confirm_delete_video_message">Törli a videót?</string>
+    <string name="setImage">Kép beállítása mint</string>
+    <string name="sendImage">Kép megosztása a következőn:</string>
+    <string name="sendVideo">Videó megosztása a következőn:</string>
+    <string name="preparing_sd">SD-kártya előkészítése...</string>
+    <string name="media_scanner_running">Fut a médiakeresés...</string>
+    <string name="no_sdcard">Nem található SD-kártya</string>
+    <string name="no_media_found">Nincs tétel</string>
+    <string name="OPTION_1">OPTION 1</string>
+    <string name="OPTION_2">OPTION 2</string>
+    <string name="OPTION_3">OPTION 3</string>
+    <string name="no_have_video">A videofájl érvénytelen vagy nem található</string>
+    <string name="camera_more">Több</string>
+    <string name="rename">Átnevez</string>
+    <string name="rename_dialog_message">Írjon be egy új fájlnevet</string>
+    <string name="name_is_empty">Név üres</string>
+    <string name="already_exists">Már létezik</string>
+    <string name="unable_to_rename">Nem lehet átnevezni</string>
+    <string name="failed_to_rename">Nem sikerült átnevezni</string>
+    <string name="invalid_character">Érvénytelen karakter</string>
+    <string name="max_char_reached_msg">Nincs hely több karakternek.</string>
+    <string name="menu_kodak">Kodak</string>
+    <string name="menu_snapfish">Snapfish</string>
+    <string name="Title_SetDefDest">Alapértelmezett címzett beállítása</string>
+    <string name="My_Album_Online">Saját Online album</string>
+    <string name="include_default_destination">Alapértelmezett cím</string>
+    <string name="Title_Dest">"Alapértelmezett
+Cél."</string>
+    <string name="app_recent_recipients">Legutóbbi címzettek</string>
+    <string name="app_new_number">Új szám</string>
+    <string name="app_new_email">Új e-mail</string>
+    <string name="DEST_RECENTRECIPIENT">Legutóbbi
+ címzett</string>
+    <string name="DEST_PHONEBOOK">Telefonkönyv</string>
+    <string name="DEST_NEWNUMBER">Új
+ szám</string>
+    <string name="DEST_NEWEMAIL">Új
+ e-mail</string>
+    <string name="DEST_ONLINEALBUM">Online
+ album</string>
+    <string name="DEST_CURRENTDEST">Current
+ Destinations</string>
+    <string name="CURRENTDESTINATION_REPLACE">Csere</string>
+    <string name="CURRENTDESTINATION_REMOVE">Eltávolít</string>
+    <string name="remove_dialog">Törli?</string>
+    <string name="remove_dialog_removed">Hivatkozott kép eltávolítva</string>
+    <string name="remove_dialog_canceled">Megszakítva</string>
+    <string name="Send_to">Küldés</string>
+    <string name="Dialog_Yes">Igen</string>
+    <string name="Dialog_No">Nem</string>
+    <item type="string" name="APKTOOL_DUMMY_0038">false</item>
+</resources>
