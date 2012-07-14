@@ -459,4 +459,10 @@
     <string name="month_of_november">Nov</string>
     <string name="month_of_december">Dec</string>
     <string name="day_of_month">" %d"</string>
+	<string name="group_name_contacts">Névjegyek</string>
+    <string name="group_name_friends">Barátok</string>
+    <string name="group_name_family">Család</string>
+    <string name="group_name_coworkers">Munkatársak</string>
+    <string name="perm_activate_lab">Aktiválás a Xiaomi központba</string>
+    <string name="perm_activate_dspt">SMS küldése a Xiaomi központba való aktiválásához</string>
 </resources>

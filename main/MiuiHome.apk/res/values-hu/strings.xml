@@ -80,6 +80,7 @@
     <string name="transformation_type_stack">Lépcsőzetes</string>
     <string name="transformation_type_rotate">Forgatás</string>
     <string name="pref_wallpaper_scroll_type_title">Háttérkép mozgatás típusok</string>
+	<string name="pref_cell_layout_size">Rács elrendezés</string>
     <string name="widget_gadget_player">Music_4x</string>
     <string name="buffering">Pufferelés...</string>
     <string name="emptyplaylist">A lejátszási lista üres</string>
