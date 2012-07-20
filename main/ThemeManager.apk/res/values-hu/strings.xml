@@ -20,7 +20,7 @@
     <string name="theme_component_title_framework">Témák</string>
     <string name="theme_component_title_mms">Szöveg stíl.</string>
     <string name="theme_component_title_wallpaper">Háttérkép</string>
-    <string name="theme_component_title_lockwallpaper">Képernyőzár</string>
+    <string name="theme_component_title_lockwallpaper">Zár háttere</string>
     <string name="theme_component_title_icon">Ikonok</string>
     <string name="theme_component_title_boot_animation">Boot Anim.</string>
     <string name="theme_component_title_boot_audio">Boot hang</string>
