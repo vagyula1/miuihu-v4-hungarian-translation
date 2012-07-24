@@ -47,11 +47,11 @@
         <item>Pókerarc</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Once</item>
-        <item>Twice</item>
-        <item>Thrice</item>
-        <item>Five times</item>
-        <item>Ten times</item>
+        <item>Egyszer</item>
+        <item>Kétszer</item>
+        <item>Háromszor</item>
+        <item>Ötször</item>
+        <item>Tízszer</item>
     </string-array>
     <string-array name="prefValues_ringtone_repeat">
         <item>1</item>
@@ -61,17 +61,17 @@
         <item>10</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Név</item>
+        <item>Becenév</item>
+        <item>Telefon</item>
         <item>E-mail</item>
-        <item>Organization</item>
+        <item>Szervezet</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>SIP telefon</item>
+        <item>Születésnap</item>
+        <item>Webhely</item>
+        <item>Cím</item>
+        <item>Feljegyzés</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -87,8 +87,8 @@
         <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Show received time</item>
-        <item>Show sent time (Uses server timestamp)</item>
+        <item>Fogadott idő kijelzése</item>
+        <item>Elküldési idő kijelzése(Központ időbélyegét használja)</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
@@ -113,8 +113,8 @@
         <item>Soha</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>mindig</item>
+        <item>halk</item>
+        <item>soha</item>
     </string-array>
 </resources>

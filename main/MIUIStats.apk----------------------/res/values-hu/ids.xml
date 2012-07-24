@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="main_desc">false</item>
+    <item type="id" name="main_link">false</item>
+    <item type="id" name="main_optin">false</item>
+    <item type="id" name="main_btn_save">false</item>
+    <item type="id" name="main_btn_preview">false</item>
+    <item type="id" name="main_show_stats">false</item>
+    <item type="id" name="preview_id_lbl">false</item>
+    <item type="id" name="preview_id_value">false</item>
+    <item type="id" name="preview_device_lbl">false</item>
+    <item type="id" name="preview_device_value">false</item>
+    <item type="id" name="preview_version_lbl">false</item>
+    <item type="id" name="preview_version_value">false</item>
+    <item type="id" name="preview_country_lbl">false</item>
+    <item type="id" name="preview_country_value">false</item>
+    <item type="id" name="preview_language_value">false</item>
+    <item type="id" name="preview_carrier_lbl">false</item>
+    <item type="id" name="preview_carrier_value">false</item>
+    <item type="id" name="preview_android_value">false</item>
+    <item type="id" name="preview_done_btn">false</item>
+</resources>

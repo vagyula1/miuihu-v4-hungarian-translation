@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="layout" name="main" id="0x7f030000" />
+    <public type="layout" name="preview" id="0x7f030001" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="main_title" id="0x7f040001" />
+    <public type="string" name="main_desc" id="0x7f040002" />
+    <public type="string" name="main_optin" id="0x7f040003" />
+    <public type="string" name="main_btn_preview" id="0x7f040004" />
+    <public type="string" name="main_btn_save" id="0x7f040005" />
+    <public type="string" name="main_show_stats" id="0x7f040006" />
+    <public type="string" name="preview_id_lbl" id="0x7f040007" />
+    <public type="string" name="preview_device_lbl" id="0x7f040008" />
+    <public type="string" name="preview_version_lbl" id="0x7f040009" />
+    <public type="string" name="preview_done_btn" id="0x7f04000a" />
+    <public type="string" name="preview_country_lbl" id="0x7f04000b" />
+    <public type="string" name="preview_carrier_lbl" id="0x7f04000c" />
+    <public type="string" name="preview_android_lbl" id="0x7f04000d" />
+    <public type="string" name="preview_language_lbl" id="0x7f04000e" />
+    <public type="string" name="notification_ticker" id="0x7f04000f" />
+    <public type="string" name="notification_title" id="0x7f040010" />
+    <public type="string" name="notification_desc" id="0x7f040011" />
+    <public type="string" name="main_link" id="0x7f040012" />
+    <public type="string" name="preview_title" id="0x7f040013" />
+    <public type="id" name="main_desc" id="0x7f050000" />
+    <public type="id" name="main_link" id="0x7f050001" />
+    <public type="id" name="main_optin" id="0x7f050002" />
+    <public type="id" name="main_btn_save" id="0x7f050003" />
+    <public type="id" name="main_btn_preview" id="0x7f050004" />
+    <public type="id" name="main_show_stats" id="0x7f050005" />
+    <public type="id" name="preview_id_lbl" id="0x7f050006" />
+    <public type="id" name="preview_id_value" id="0x7f050007" />
+    <public type="id" name="preview_device_lbl" id="0x7f050008" />
+    <public type="id" name="preview_device_value" id="0x7f050009" />
+    <public type="id" name="preview_version_lbl" id="0x7f05000a" />
+    <public type="id" name="preview_version_value" id="0x7f05000b" />
+    <public type="id" name="preview_country_lbl" id="0x7f05000c" />
+    <public type="id" name="preview_country_value" id="0x7f05000d" />
+    <public type="id" name="preview_language_value" id="0x7f05000e" />
+    <public type="id" name="preview_carrier_lbl" id="0x7f05000f" />
+    <public type="id" name="preview_carrier_value" id="0x7f050010" />
+    <public type="id" name="preview_android_value" id="0x7f050011" />
+    <public type="id" name="preview_done_btn" id="0x7f050012" />
+</resources>
