@@ -203,7 +203,7 @@ Névjegyek hozzáadásához nyomja meg a "</string>
     <string name="confirm_export_title">Exportálás megerősítése</string>
     <string name="confirm_export_message">Exportálja a névjegyek listáját a(z) \"%s\" fájlba?</string>
     <string name="exporting_contact_failed_title">Nem sikerült exportálni a névjegyadatokat</string>
-    <string name="exporting_contact_failed_message">"Nem sikerült exportálni a névjegyadatokat. Oka: \"%s\""</string>
+    <string name="exporting_contact_failed_message">Nem sikerült exportálni a névjegyadatokat. Oka: \"%s\"</string>
     <string name="fail_reason_no_exportable_contact">Nincs exportálható névjegy</string>
     <string name="fail_reason_too_many_vcard">Túl sok vCard fájl van a tárhelyen</string>
     <string name="fail_reason_too_long_filename">A fájlnév túl hosszú (\"%s\")</string>
@@ -353,7 +353,7 @@ Névjegyek hozzáadásához nyomja meg a "</string>
     <string name="pick_new_photo">Új fotó kiválasztása a Galériából</string>
     <string name="locale_change_in_progress">Az ismerőslista frissítése folyamatban van, hogy tükrözze a nyelv módosítását.</string>
     <string name="upgrade_in_progress">Az ismerőslista frissítése folyamatban van.</string>
-    <string name="upgrade_out_of_memory">"Az ismerősök frissítése folyamatban van. A frissítési folyamathoz kb. %s MB belső tárhelyre van szükség. Válasszon az alábbi lehetőségek közül:"</string>
+    <string name="upgrade_out_of_memory">Az ismerősök frissítése folyamatban van. A frissítési folyamathoz kb. %s MB belső tárhelyre van szükség. Válasszon az alábbi lehetőségek közül:</string>
     <string name="upgrade_out_of_memory_uninstall">Távolítson el néhány alkalmazást</string>
     <string name="upgrade_out_of_memory_retry">Verziófrissítés újrapróbálása</string>
     <string name="search_results_searching">Keresés...</string>
@@ -519,7 +519,6 @@ Névjegyek hozzáadásához nyomja meg a "</string>
     <string name="sim_contact_search_error">Hiba a névjegyek SIM-en keresése közben</string>
     <string name="empty_divider_title">Ön szinkronizálhat</string>
     <string name="noContactHelpTextAccountsInfo">Google, Exchange névjegyeket.</string>
-    <string name="sync_xiaomi_cloud_contacts">Visszaállítás online mentésből</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Visszaállítás Xiaomi fiókban és MiTalk-ban mentett adat segítségével</string>
     <string name="group_name_contacts">Névjegyek</string>
     <string name="group_name_friends">Barátok</string>
@@ -542,8 +541,8 @@ Névjegyek hozzáadásához nyomja meg a "</string>
     <string name="calllog_menu_edit_before_call">Hívás előtt szerkeszt</string>
     <string name="calllog_menu_send_sms">SMS küldése</string>
     <string name="menu_call_ip_number">Kettős IP telefon (tárcsázás: %s)</string>
-    <string name="delete_contact_calllog_title">"Biztosan törli a névjegy hívásait?"</string>
-    <string name="delete_unknown_contact_calllog_title">"Biztosan törli az ismeretlen hívásait?"</string>
+    <string name="delete_contact_calllog_title">Biztosan törli a névjegy hívásait?</string>
+    <string name="delete_unknown_contact_calllog_title">Biztosan törli az ismeretlen hívásait?</string>
     <string name="account_default">Telefon</string>
     <string name="account_sim">Csak SIM, szinkron nélkül</string>
     <string name="edit_contact_card_title">Névjegyek szerkesztése</string>
@@ -586,6 +585,14 @@ Névjegyek hozzáadásához nyomja meg a "</string>
     <string name="preference_import_export_title">Névjegyek Importálása/Exportálása</string>
     <string name="import_vcard_description">Névjegyek importálása SD-kártyáról</string>
     <string name="export_vcard_description">vCard exportálása SD-kártyára</string>
+   <string name="export_to_sim">Exportálás a SIM kártyáról</string>
+    <string name="sim_card_no_free_space_title">SIM kártya megtelt</string>
+    <string name="sim_card_no_free_space_message">A SIM kártya megtelt, új névjegy nem importálható.Kérem töröljön a kártyáról és próbálja újra</string>
+    <string name="export_sim_contacts_dialog_message">A Sim kártyán %d névjegy található, exportálja?</string>
+    <string name="export_sim_contact_finish">SIM névjegyek exportálása befejezve</string>
+    <string name="pref_title_account_import">Importálás fiókba</string>
+    <string name="pref_title_import_from_account">Importálás a Xiaomi fiókba</string>
+    <string name="pref_summary_import_from_account">A Google és Exchange fiókok névjegyeinek importálása a Xiaomi fiókjába</string>
     <string name="raw_contact_list_title">Ez a névjegy magában foglal %1$d névjegyeket，klikk a szerkesztéshez</string>
     <string name="raw_contact_account_label">Fiók:%1$s</string>
     <string name="move_and_resize">Mozgatás és méretezés</string>
@@ -598,6 +605,13 @@ Névjegyek hozzáadásához nyomja meg a "</string>
     <string name="open_contact">Névjegy megtekintése</string>
     <string name="date_picker_label">Emlékeztessen 3-nappal korábban és az aktuális napon.</string>
     <string name="pkgLabel">Névjegyzék és a tárcsázó</string>
+    <string name="import_to_xiaomi_account_confirm">Importálás</string>
+    <string name="import_to_xiaomi_account_progress_title">Névjegyek importálása a Xiaomi fiókba</string>
+    <string name="import_to_xiaomi_account_progress_message">Importálás...</string>
+    <string name="import_to_xiaomi_account_progress_finish">Importálás befejezve</string>
+    <string name="import_to_xiaomi_account_title">Importálja a névjegyeket a Xiaomi fiókjába?</string>
+    <string name="menu_batch_delete">Névjegyek törlése</string>
+    <string name="batch_delete_msg">Törli a %d kiválasztott névjegyet? A névjegy a fiókból is törölve lesz.</string>
     <string name="activity_title_confirm_add_detail">Hozzáadás névjegyhez</string>
     <string name="btn_finished">Befejezve</string>
     <string name="calllog_menu_call_ip_number">IP cím tárcsázása (tárcsáz %s)</string>
@@ -609,4 +623,5 @@ Névjegyek hozzáadásához nyomja meg a "</string>
     <string name="scan_merge_message">Részben dupla névjegyek %1$d</string>
     <string name="sim_contacts_invisiable">Láthatatlan</string>
     <string name="sim_contacts_visiable">Látható</string>
+    <string name="sync_xiaomi_cloud_contacts">Visszaállítás online mentésből</string>
 </resources>

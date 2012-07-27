@@ -178,8 +178,8 @@
     <string name="menu_setting">Beállítások</string>
     <string name="no_file_selected">Nincs fájl kiválasztvad</string>
     <string name="operation_copy_path">Fájl útvonal másolás</string>
-    <string name="pref_primary_folder">Kezdőkönyvtár</string>
-    <string name="pref_primary_folder_summary">Program indulásakor a kezdőkönyvtár,jelenlegi útvonal is%1$s</string>
+    <string name="pref_primary_folder">Kezdő mappa</string>
+    <string name="pref_primary_folder_summary">Program indulásakor a kezdő mappa,jelenlegi útvonal is%1$s</string>
     <string name="pref_read_root">Gyökérkönyvtár beolvasás</string>
     <string name="preference_title">Általános beállítások</string> 
     <string name="removed_favorite">Eltávolítva a kedvencekből</string>  

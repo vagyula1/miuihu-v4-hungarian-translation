@@ -7,8 +7,6 @@
     <string name="widget_under_visit_mode">Védett üzemmódban, a jegyzetek tartalma el lesz rejtve</string>
     <string name="notelist_string_info">...</string>
     <string name="notelist_menu_new">Jegyzet készítése</string>
-    <string name="delete_remind_time_message">Emlékeztető törlése sikerült</string>
-    <string name="set_remind_time_message">Emlékeztető beállítása</string>
     <string name="note_alert_expired">Lejárt</string>
     <string name="format_date_ymd">yyyyMMdd</string>
     <string name="format_datetime_mdhm">MMMd kk:mm</string>
@@ -23,8 +21,7 @@
     <string name="format_folder_files_count">(%d)</string>
     <string name="menu_create_folder">Új mappa</string>
     <string name="menu_export_text">Szöveg mentése</string>
-    <string name="menu_sync">Szinkronizálás</string>
-    <string name="menu_sync_cancel">Szinkronizálás leállítása</string>
+    <string name="menu_edit">Szerkesztés</string>
     <string name="menu_setting">Beállítások</string>
     <string name="menu_search">Keresés</string>
     <string name="menu_delete">Törlés</string>
@@ -38,10 +35,8 @@
     <string name="menu_font_normal">Közepes</string>
     <string name="menu_font_large">Nagy</string>
     <string name="menu_font_super">Szuper</string>
-    <string name="menu_list_mode">Ellenőrző lista</string>
+    <string name="menu_list_mode">Ellenőrző lista</string> 
     <string name="menu_normal_mode">Ellenőrző lista elhagyása</string>
-    <string name="menu_folder_view">Mappa megtekintése</string>
-    <string name="menu_folder_delete">Mappa törlése</string>
     <string name="menu_folder_change_name">Mappa átnevezése</string>
     <string name="folder_exist">A %1$s mappa már létezik, kérem nevezze át</string>
     <string name="menu_share">Megosztás</string>
@@ -93,7 +88,6 @@
     <string name="preferences_toast_cannot_change_account">Nem lehet megváltoztatni a fiókot, mert a szinkronizáció folyamatban van</string>
     <string name="preferences_toast_success_set_accout">%1$s beállítva szinkronizációs fiókként</string>
     <string name="preferences_bg_random_appear_title">Véletlen jegyzetszín</string>
-    <string name="button_delete">Töröl</string>
     <string name="call_record_folder_name">Híváslista</string>
     <string name="hint_foler_name">Írja be a mappa nevét</string>
     <string name="search_label">Jegyzetek keresése</string>
@@ -101,4 +95,13 @@
     <string name="search_setting_description">írja be a szöveget</string>
     <string name="search">Jegyzetek</string>
     <string name="select_text">Szöveg kijelölése</string>
+    <string name="button_new_note">Új jegyzet</string>
+    <string name="default_folder_name">Jegyzetek</string>
+    <string name="button_delete">Töröl</string>
+    <string name="delete_remind_time_message">Emlékeztető törlése sikerült</string>
+    <string name="menu_folder_delete">Mappa törlése</string>
+    <string name="menu_folder_view">Mappa megtekintése</string>
+    <string name="menu_sync">Szinkronizálás</string>
+    <string name="menu_sync_cancel">Szinkronzálás megszakítás</string>
+    <string name="set_remind_time_message">Emlékeztető beállítása</string>
 </resources>

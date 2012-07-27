@@ -429,7 +429,7 @@ Utolsó kísérlet: %s."</string>
     <string name="group_message">Csoportos üzenet</string>
     <string name="close">Bezár</string>
     <string name="timed_message_expired_title">%d időzített üzenet nem lett elküldve</string>
-    <string name="timed_message_expired_title_2"Elküldi őket?</string>
+    <string name="timed_message_expired_title_2">Elküldi őket?</string>
     <string name="timed_message_to">to</string>
     <string name="timed_message_in_total">... (%d in total)</string>
     <string name="processing">Feldolgozás...</string>
