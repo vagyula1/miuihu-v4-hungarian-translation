@@ -436,7 +436,7 @@ Utolsó kísérlet: %s."</string>
     <string name="title_date_type">Üzenet időbélyeg</string>
     <string name="summary_date_type">Üzenet időbélyeg</string>
     <string name="dialog_title_date_type">Üzenet idejének kiválasztása</string>
-<string name="generating_mms_to_forward">Generating Mms to forward...</string>
+    <string name="generating_mms_to_forward">Generating Mms to forward...</string>
     <string name="mi_msg">Felhő üzenet</string>
     <string name="mx_enable">Felhő üzenetkezelés engedélyezés</string>
     <string name="mx_warning_notice">A felhő üzenetkezelés aktiválásához egy sms küldése szükséges. A szolgáltató költséget számíthat fel</string>
@@ -466,7 +466,6 @@ Utolsó kísérlet: %s."</string>
     <string name="confirm_delete_RUIM_message">Az üzenet örölve lesz a RUIM kártyáról.</string>
     <string name="confirm_delete_all_RUIM_messages">Az össze üzenet törölve lesz a RUIM kártyáról.</string>
     <string name="festival_sms_sdcard_unready">Az SD kártya nem áll készen</string>
-    <string name="generating_mms_to_forward">Generating Mms to forward...</string>
     <string name="ruim_empty">Nincs üzenet a RUIM kártyán.</string>
     <string name="ruim_full_title">RUIM kártya megtelt</string>
     <string name="ruim_manage_messages_title">Szöveges üzenetek a RUIM kártyáncard</string>

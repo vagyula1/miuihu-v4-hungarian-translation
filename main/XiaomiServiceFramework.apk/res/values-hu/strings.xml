@@ -77,7 +77,7 @@
     <string name="access_denied">Belépés sikertelen</string>
     <string name="micloud_on_pc_notice">"Látogassa meg az i.xiaomi.com
 honlapot adatai kezeléséhez"</string>
-    <string name="sync_item_gallery_title">Galéria szinkrinzálás</string>
+    <string name="sync_item_gallery_title">Galéria szinkronzálás</string>
     <string name="sync_item_gallery_summary">Képek és képernyőmentések szinkronzálása</string>
     <string name="sub_sync_item_gallery_summary">Ajánlott,egyébként költséget számol fel</string>
     <string name="sub_sync_item_title_wifi_only">csak WIFI</string>
