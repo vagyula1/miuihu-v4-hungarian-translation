@@ -189,6 +189,7 @@
     <string name="ui_bar_txt_autoUpload_detail">Fájlok automatikus mentése a MiDrive-ra</string>
     <string name="ui_bar_txt_autoUpload_title">Automatikus mentés engedélyezve</string>
     <string name="ui_bar_txt_backup_msg">Mentés %1$s</string>
+    <string name="ui_bar_txt_download_outline">Letötltve %1$d fájl</string>
     <string name="ui_bar_txt_upload_msg">Feltöltés %1$s</string>
     <string name="ui_bar_txt_upload_outline">Feltöltve %1$d fájl</string>
     <string name="ui_main_menu_option_exit">Kilépés</string>

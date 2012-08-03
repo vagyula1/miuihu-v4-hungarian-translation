@@ -66,4 +66,9 @@
     <string name="pref_dialog_title_max_bytes_limit">Fálj-méret limit</string>
     <string name="prefDefault_max_bytes_limit">1048576</string>
     <string name="might_lead_to_mobile_charge">"After canceling, there will be no download prompt of operator's network. This may lead to traffic costs"</string>
+    <string name="download_in_process">Letöltés</string>
+    <string name="download_complete">Letötlve</string>
+    <string name="retry_after_network_available">Próbálja újra ha nincs elérhető hálózati kapcsolat</string>
+    <string name="editmode_menu_share">Megosztás</string>
+    <string name="editmode_menu_delete">Törlés</string>
 </resources>

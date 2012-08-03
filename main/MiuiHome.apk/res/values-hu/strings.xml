@@ -108,6 +108,7 @@
     <string name="gadget_weather_title_24">Időjárás 2x4</string>
     <string name="gadget_weather_title_14">Időjárás 1x4</string>
     <string name="gadget_weather_app_not_installed">MIUI időjárás nincs telepítve</string>
-    <string name="gadget_weather_to">Hozzá adás</string>
+    <string name="gadget_weather_time_format">D/MM EEE</string>
+    <string name="gadget_weather_to">Hozzáadás</string>
     <string name="install_body_format">Alkalmazás telepítése \"%s\"?</string>
 </resources>

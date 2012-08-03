@@ -1001,9 +1001,9 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="runningservicedetails_processes_title">Folyamatok</string>
     <string name="service_stop">Leállítás</string>
     <string name="service_manage">Beállítások</string>
+    <string name="background_process_stop_description">Ez egy régi alkalmazásfolyamat, amely még mindig fut, hátha újra szükség lehet rá. Általában nincs ok arra, hogy leállítsa.</string>
     <string name="service_stop_description">Ezt a szolgáltatást annak alkalmazása indította. Leállítása az alkalmazás meghibásodását okozhatja.</string>
     <string name="heavy_weight_stop_description">Ezt az alkalmazást nem lehet biztonságosan leállítani. Ha leállítja, akkor elveszítheti az aktuális munkájának egy részét.</string>
-    <string name="background_process_stop_description">Ez egy régi alkalmazásfolyamat, amely még mindig fut, hátha újra szükség lehet rá. Általában nincs ok arra, hogy leállítsa.</string>
     <string name="service_manage_description">%1$s: jelenleg használatban van. A kezeléséhez érintse meg a Beállítások gombot.</string>
     <string name="main_running_process_description">A használatban lévő fő folyamat.</string>
     <string name="process_service_in_use_description">%1$s szolgáltatás használatban van.</string>
@@ -1495,9 +1495,7 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="accessibility_tutorial_lesson_1_text_1">Miután bekapcsolta a \"Felfedezés érintéssel\" funkciót, a képernyő megérintésével többet tudhat meg arról, amin az ujját tartja. Például az aktuális képernyőn alkalmazások ikonjai találhatók. Találjon meg egyet úgy, hogy megérinti a képernyőt és húzza az ujját.</string>
     <string name="accessibility_tutorial_lesson_1_text_2_more">Remek. Csúsztassa tovább az ujját a képernyőn, amíg legalább még egy ikont nem talál.</string>
     <string name="accessibility_tutorial_lesson_1_text_3">Ha aktiválni szeretné azt, amihez hozzáér, koppintson rá. Csúsztassa el ujját addig, amíg meg nem találja a következő ikonját: %s. Ezután egyszer koppintson az ikonra annak aktiválásához.</string>
-    <string name="accessibility_tutorial_lesson_1_text_4">Ujja hozzáér a(z) %s ikonhoz. Koppintson egyszer az ikon aktiválásához.</string>
-    <string name="accessibility_tutorial_lesson_1_text_4_exited">Ujját a(z) %s ikonja fölött csúsztatta el, majd máshová helyezte. Lassan csúsztassa körbe ujját a képernyőn, amíg újra meg nem találja a böngésző ikonját.</string>
-    <string name="accessibility_tutorial_lesson_1_text_5">Remek. A következő leckére való továbblépéshez keresse meg és nyomja meg a %s gombot a képernyő jobb alsó sarkának közelében.</string>
+    <string name="accessibility_tutorial_lesson_1_text_4">Ujja hozzáér a(z) %s ikonhoz. Koppintson egyszer az ikon aktiválásához.</string>    <string name="accessibility_tutorial_lesson_1_text_4_exited">Ujját a(z) %s ikonja fölött csúsztatta el, majd máshová helyezte. Lassan csúsztassa körbe ujját a képernyőn, amíg újra meg nem találja a böngésző ikonját.</string>    <string name="accessibility_tutorial_lesson_1_text_5">Remek. A következő leckére való továbblépéshez keresse meg és nyomja meg a %s gombot a képernyő jobb alsó sarkának közelében.</string>
     <string name="accessibility_tutorial_lesson_2_title">2. lecke: Görgetés két ujjal</string>
     <string name="accessibility_tutorial_lesson_2_text_1">A listában való görgetéshez két ujját csúsztassa végig a képernyőn. Az aktuális képernyő például az alkalmazásnevek listáját tartalmazza, amelyet felfelé vagy lefelé görgethet. Először próbáljon meg azonosítani néhány elemet a listában egyik ujját körbecsúsztatva.</string>
     <string name="accessibility_tutorial_lesson_2_text_2_more">Remek. Csúsztassa tovább az ujját, amíg legalább még egy elemet talál.</string>
@@ -1696,6 +1694,13 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="volume_bluetooth_description">Bluetooth hangerő</string>
     <string name="volume_restore">Alapértelmezett hangerő</string>
     <string name="volume_restore_alert">Visszaállítja az alapértelmezett hangerő beállításokat?</string>
+    <string name="font_size_preview">MIUI</string>
+    <string name="font_size_summary">Betűméret változtatása a jobb olvashatóság érdekében (pl.Telefon, Üzenetek, Névjegyzék stb).</string>
+    <string name="font_size_small">Kicsi</string>
+    <string name="font_size_normal">Normál</string>
+    <string name="font_size_medium">Közepes</string>
+    <string name="font_size_large">Nagy</string>
+    <string name="font_size_huge">Óriás</string>
     <string name="data_summary">Select Subscription for Data Call</string>
     <string name="data_title">Adathívás</string>
     <string name="notification_pulse_summary">When new notification is received, pulse notifiation LED</string>

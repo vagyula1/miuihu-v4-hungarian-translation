@@ -73,6 +73,7 @@
     <string name="sync_dspt">XiaoMi fiók szinkronizálása</string>
     <string name="sync_sub_dspt">Egy Sms küldése szükséges az aktiváláshoz</string>
     <string name="send_sms_for_sync_notice">Elküldi az aktiváló sms-t?</string>
+    <string name="send_sms_for_sync_notice">Egy aktiváló SMS elküldése szükséges,folytatja?</string>
     <string name="failed_to_send_activate_email">Aktiváló email elküldése sikertelen</string>
     <string name="access_denied">Belépés sikertelen</string>
     <string name="micloud_on_pc_notice">"Látogassa meg az i.xiaomi.com
@@ -91,4 +92,12 @@ honlapot adatai kezeléséhez"</string>
     <string name="sub_sync_big_photo_item_summary">Ajánlott,egyébként költséget számol fel</string>
     <string name="sync_on">Be</string>
     <string name="sync_off">Ki</string>
+    <string name="btn_activate">Aktiválás</string>
+    <string name="no_sim">Nem található SIM kártya, szinkronizálás nem hajtható végre</string>
+    <string name="activate_fail_notification_title">Reactivate Xiaomi sync service</string>
+    <string name="sim_changed_notification_content">SIM nincs aktiválva, aktiválja újra</string>
+    <string name="sim_changed_reactivate_notice">A jelenlegi SIM kártya inaktív. An SMS is required to activate the service, activate now?</string>
+    <string name="activating">Aktiválás...</string>
+    <string name="check_phone_error_title">Failed to enable sync service</string>
+    <string name="check_phone_io_error">Háéózati hiba</string>
 </resources>

@@ -18,6 +18,8 @@
     <string name="refresh_finish">Frissítés befejezve</string>
     <string name="refresh_start">Frissítés elkezdve</string>
     <string name="quit_player">Kilépés</string>
+    <string name="not_selected">Válasszon zeneszámot</string>
+    <string name="file_not_found">A fájl nem létezik</string>
     <string name="music_settings">Beállítások</string>
     <string name="mobile_connect_settings">Mobilhálózat</string>
     <string name="download_album_settings">Lemezborító letöltése</string>
@@ -222,6 +224,7 @@
     <string name="filter_max">2MB</string>
     <string name="filter_min">0K</string>
     <string name="min_track_size">Minimum mérete a zene fileoknak</string>
+    <string name="musicbrowserlabel">Zene</string>
     <string name="nowplaying_title">Most játszott</string>
     <string name="online_track_count">Végtelen</string>
     <string name="playlist_nowplaying">Most játszott</string>

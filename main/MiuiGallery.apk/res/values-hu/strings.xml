@@ -284,6 +284,7 @@
     <string name="no_storage_message">Nem érhető el háttértár.</string>
     <string name="no_storage_disable_cloud_albums">Felhő albumok nem elérhető, próbálja később.</string>
     <string name="message_no_delete_access">A hozzáférés megtagadva. Nem lehet törölni a fájlt vagy mappát: %s</string>
+    <string name="fail_init_gallery_db_helper">Alkalmazás bezárva, a galéria adatbázis megnyitása sikertelen; a tároló megtelt.</string>
     <string name="home_recent_albums">Legutóbbi album</string>
     <string name="operation_delete_confirm_message">A kiválasztott fájlok, törlésre kerülnek az sd-kártyáról.</string>
 </resources>
