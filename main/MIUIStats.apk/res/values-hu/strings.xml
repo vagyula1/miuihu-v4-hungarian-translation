@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">MIUIStat</string>
     <string name="main_title">Névtelen felhasználói adatok beküldése</string>
-    <string name="main_desc">Ezzel funkcióval a MIUI Android fejlesztői nyomon követhetik a telepítéseket.Az elküldött információ tartalmaz egy egyéni azonosítót,amiből nem derülnek ki a személyes adatok, az eszköz típusa és verzója. Az alábbi linken lévő példán megtekinthetőek azok az adatok,melyek a bekapcsoláskor elküldésre kerülnek.</string>
-    <string name="main_optin">Jelentés engedélyezése</string>
+    <string name="main_desc">Ezzel funkcióval a MIUI Android fejlesztői nyomon követhetik az esetlegesen előforduló hibákat.Az elküldött információ tartalmaz egy egyéni azonosítót,amiből nem derülnek ki a személyes adatok, csak az eszköz típusa és verzója. Az alábbi linken lévő példán megtekinthetőek azok az adatok,melyek engedélyezés esetén elküldésre kerülnek.</string>
+    <string name="main_optin">Jelentés beküldés engedélyezése</string>
     <string name="main_btn_preview">Adatok előnézete</string>
     <string name="main_btn_save">Mentés</string>
     <string name="main_show_stats">Stat.megtekintése</string>

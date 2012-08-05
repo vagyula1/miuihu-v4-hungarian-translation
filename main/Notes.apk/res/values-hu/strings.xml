@@ -93,7 +93,6 @@
     <string name="attachment_contact">Névjegyzék</string>
     <string name="image_edit_action_view">Megtekint</string>
     <string name="image_edit_action_replace">Cserél</string>
-    <string name="select_text">Szöveg kijelölése</string>
     <string name="image_edit_action_replace_menu_title">Másik kép</string>
     <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
     <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>

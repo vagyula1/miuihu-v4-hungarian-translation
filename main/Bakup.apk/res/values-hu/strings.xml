@@ -154,14 +154,13 @@ megszakítás adat vesztéssel járhat"</string>
  Visszaállítás a mentésből %s"</string>
     <string name="import_from_xiaomi_account_hint1">"1.Telepítse a MiTalk-ot és jelentkezzen be.
  http://www.miliao.com
-
 3. Lépjen a MiTalk beállításaiba és válassza a ”Névjegyek mentése a Xiaomi fiókba”"</string>
     <string name="import_from_xiaomi_account_hint2">Megjegyzés: Lépjen tovább ha a mentés befejeződött</string>
     <string name="import_from_xiaomi_account_hint_title">Használja a MiTalk-ot névjegyek mentéséhez, bármely készüléket, csak nem a MI-ONE-t</string>
     <string name="guarded_mode_dialog_title">Védett mód</string>
     <string name="guarded_mode_dialog_message">Nem lehetséges a mentés/helyreállítás védett módban</string>
     <string name="multi_select_title">%1$s elem kijelölve</string>
-    <string name="enable_encrypt_title">Titkosítás engedélyezve</string>
+    <string name="enable_encrypt_title">Titkosítás engedélyezés</string>
     <string name="enable_encrypt_indicator">A mentés nincs titkosítva,kattintson az engedélyezéshez.</string>
     <string name="enable_encrypt">Engedélyezés</string>
     <string name="already_enable_encrypt">Titkosítás engedélyezve</string>
@@ -177,7 +176,7 @@ megszakítás adat vesztéssel járhat"</string>
     <string name="auto_backup_interval_hint">%d naponta</string>
     <string name="auto_backup_interval_max">30 naponta</string>
     <string name="auto_backup_interval_min">Napi</string>
-    <string name="auto_backup_setting_title">Autamitikus mentés beállításai</string>
+    <string name="auto_backup_setting_title">Automtikus mentés beállításai</string>
     <string name="data_no_enough_space_warning">Internál memória kevesebb mint 30MB, valószinűleg nem fog sikerülni a mentés, folytatja?</string>
     <string name="delete_backup">Mentés törlése</string>
     <string name="sdcard_no_enough_space_warning">Kevés a hely az SD kártyán, biztos folytatja?</string>
