@@ -72,7 +72,6 @@
     <string name="data_sync_notice">Használja Xaomi fiókját Üzenetei, Névjegyzéke és egyéb adatai szinkronizálásához.</string>
     <string name="sync_dspt">XiaoMi fiók szinkronizálása</string>
     <string name="sync_sub_dspt">Egy Sms küldése szükséges az aktiváláshoz</string>
-    <string name="send_sms_for_sync_notice">Elküldi az aktiváló sms-t?</string>
     <string name="send_sms_for_sync_notice">Egy aktiváló SMS elküldése szükséges,folytatja?</string>
     <string name="failed_to_send_activate_email">Aktiváló email elküldése sikertelen</string>
     <string name="access_denied">Belépés sikertelen</string>
