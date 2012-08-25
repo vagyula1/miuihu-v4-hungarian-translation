@@ -180,6 +180,7 @@
     <string name="playback_failed_no_title_by_bad_file">A dal nem játszható le, mert ez a formátum nem támogatott.</string>
     <string name="playback_failed_no_title_by_network">A dal nem játszható le, ellenőrizze a hálózati kapcsolat beállításait.</string>
     <string name="buffering">Pufferelés...</string>
+    <string name="musicbrowserlabel">Zenelejátszó</string>
     <string name="mediaplaybacklabel">Zene</string>
     <string name="online_music">Online Zene</string>
     <string name="artists_title">Előadók</string>
