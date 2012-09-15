@@ -277,8 +277,17 @@
     <string name="status_bar_network_flow_today">Ma:%1$s</string>
     <string name="status_bar_network_flow">Ma: %1$s Hátralévő: %2$s App-ok: %3$s</string>
     <string name="status_bar_network_flow_exceed">"Today: %1$s | Exceeded: %2$s  |  Apps: %3$s"</string>
-    <string name="toast_rotation_locked">Screen is now locked in landscape orientation.</string>
+    <string name="accessibility_rotation_lock_off">A képernyő automatikusan elfordul.</string>
+    <string name="toast_rotation_locked">A képernyő lezárva fekvő módban.</string>
+    <string name="accessibility_rotation_lock_on_portrait">A képernyő lezárva álló módban.</string>
+    <string name="description_direction_down">Húzza le %s.</string>
+    <string name="description_direction_left">Húzza balra %s.</string>
+    <string name="description_direction_right">Húzza jobbra %s.</string>
+    <string name="description_direction_up">Húzza fel %s.</string>
+    <string name="description_target_search">Keresés</string>
+    <string name="dreams_dock_launcher">Képernyőkímélő aktiválása</string>
     <string name="notifications_off_text">Érintse meg itt az értesítések bekapcsolásához.</string>
     <string name="notifications_off_title">Értesítések kikapcsolva</string>
+    <string name="share">Megosztás</string>
     <string name="settings_auto_dismiss_screenshot_notification">Auto dismiss screenshot notification</string>
 </resources>

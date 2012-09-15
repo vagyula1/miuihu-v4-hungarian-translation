@@ -58,29 +58,8 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
-    <string-array name="gadget_weather_image">
-        <item>Tiszta</item>
-        <item>Felhős</item>
-        <item>Borús</item>
-        <item>Köd</item>
-        <item>Szakadó eső</item>
-        <item>Vihar</item>
-        <item>Esős vihar</item>
-        <item>Villámlós vihar</item>
-        <item>Záporos</item>
-        <item>Zápor</item>
-        <item>Mérsékelt eső</item>
-        <item>Ködszitálás</item>
-        <item>Ónos eső</item>
-        <item>Hóvihar</item>
-        <item>Havas eső</item>
-        <item>HóSnow</item>
-        <item>Enyhe havazás</item>
-        <item>Havazás</item>
-        <item>Enyhe havazás</item>
-        <item>Homokvihar</item>
-        <item>Poros és párás</item>
-        <item>Smog</item>
-        <item>Jégvihar</item>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Alapértelmezett</item>
+        <item>Klasszik</item>
     </string-array>
 </resources>

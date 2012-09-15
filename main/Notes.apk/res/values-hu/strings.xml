@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Jegyzetek</string>
-    <string name="app_widget2x2">Jegyzetek 2x2</string>
-    <string name="app_widget4x4">Jegyzetek 4x4</string>
+    <string name="app_widget">Jegyzetek</string>
     <string name="widget_havenot_content">Nincsenek kapcsolódó jegyzetek, érintse meg a készítéshez.</string>
     <string name="widget_under_visit_mode">Védett üzemmódban, a jegyzetek tartalma el lesz rejtve</string>
     <string name="notelist_string_info">...</string>
@@ -22,8 +21,8 @@
     <string name="format_folder_files_count">(%d)</string>
     <string name="menu_create_folder">Új mappa</string>
     <string name="menu_export_text">Szöveg mentése</string>
-    <string name="menu_list_mode">Ellenőrző lista</string> 
-    <string name="menu_normal_mode">Ellenőrző lista elhagyása</string>
+    <string name="menu_list_mode">Lista nézet</string> 
+    <string name="menu_grid_mode">Rács nézet</string>
     <string name="menu_edit">Szerkesztés</string>
     <string name="menu_setting">Beállítások</string>
     <string name="menu_search">Keresés</string>
@@ -55,6 +54,7 @@
     <string name="error_note_not_exist">A jegyzet nem létezik</string>
     <string name="error_note_empty_for_clock">Elnézést az üres jegyzethez nem állítható be emlékeztető</string>
     <string name="error_note_empty_for_send_to_desktop">Elnézést, üres jegyzet nem helyezhető el a főképernyőn</string>
+    <string name="error_widget_exist_for_send_to_desktop">Ez a jegyzet már az asztalon van</string>
     <string name="success_sdcard_export">Sikeres mentés</string>
     <string name="failed_sdcard_export">Mentés sikertelen</string>
     <string name="format_exported_file_location">A %1$s szöveg mentve az SD kárya %2$s mappájába</string>
@@ -95,6 +95,7 @@
     <string name="search">Jegyzetek</string>
     <string name="button_new_note">Új jegyzet</string>
     <string name="default_folder_name">Jegyzetek</string>
+    <string name="move_to_parent">Mozgatás a gyökérkönyvtárba</string>
     <string name="attachment_gallery">Galéria</string>
     <string name="attachment_camera">Kamera</string>
     <string name="attachment_contact">Névjegyzék</string>
@@ -110,7 +111,7 @@
     <string name="toast_message_add_image_fail">Kép beillesztése sikertelen!</string>
     <string name="toast_message_replace_image_fail">Kép megváltoztatása nem sikerült!</string>
     <string name="snippet_image_stub">[Image]</string>
-    <string name="button_delete">Töröl</string>
+    <string name="send_to_note">Send to Note</string>
     <string name="delete_remind_time_message">Emlékeztető törlése sikerült</string>
     <string name="menu_alert">Emlékeztessen</string>
     <string name="menu_folder_delete">Mappa törlése</string>
@@ -119,4 +120,6 @@
     <string name="menu_sync">Szinkronizálás</string>
     <string name="menu_sync_cancel">Szinkronzálás megszakítás</string> 
     <string name="note_link_other">Térkép megnyitása</string>
+    <string name="app_widget2x2">Jegyzetek 2x2</string>
+    <string name="app_widget4x4">Jegyzetek 4x4</string>
 </resources>

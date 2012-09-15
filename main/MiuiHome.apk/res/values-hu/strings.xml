@@ -28,6 +28,8 @@
     <string name="permdesc_install_shortcut">Lehetővé teszi az alkalmazás számára a parancsikonok létrehozását a felhasználó beavatkozása nélkül.</string>
     <string name="permlab_uninstall_shortcut">Parancsikonok eltávolítása</string>
     <string name="permdesc_uninstall_shortcut">Lehetővé teszi az alkalmazás számára a parancsikonok eltávolítását a felhasználó beavatkozása nélkül.</string>
+    <string name="permlab_install_widget">Widgetek telepítése</string>
+    <string name="permdesc_install_widget">Lehetővé teszi a Widget hozzáadást felhasználói beavatkozás nélkül.</string>
     <string name="permlab_read_settings">Home beállítások és parancsikonok olvasása</string>
     <string name="permdesc_read_settings">Lehetővé teszi az alkalmazás számára a Home beállításainak és parancsikonjainak olvasását.</string>
     <string name="permlab_write_settings">Home beállítások és parancsikonok írása</string>
@@ -113,9 +115,15 @@
     <string name="gadget_weather_title_14">Időjárás 1x4</string>
     <string name="gadget_weather_app_not_installed">MIUI időjárás nincs telepítve</string>
     <string name="gadget_weather_time_format">MM.D EEE</string>
+    <string name="gadget_weather_time_spliter">:</string>
+    <string name="gadget_weather_theme_type">Gadget típus</string>
+    <string name="gadget_weather_download_title">Letöltés</string>
+    <string name="gadget_weather_download_message">Az alábbi téma letötlése szükséges: %1$s. méret: %2$s. Kérem a letötlés után válassza ki újra</string>
     <string name="gadget_weather_to">Hozzáadás</string>
     <string name="install_body_format">Alkalmazás telepítése \"%s\"?</string>
     <string name="upside_edit_bottom_empty_tip">Szerkesztéshez érintse meg a négyzetet</string>
     <string name="upside_edit_bar_empty">Üres</string>
     <string name="upside_edit_bar_select_app">Alkalmazás kiválasztás</string>
+    <string name="upside_enter_tip">Húzza le két ujjal a Free Launcher bekapcsolásához</string>
+    <string name="upside_exit_tip">Húzza fel két ujjal a Free Launcher kikapcsolásához</string>
 </resources>

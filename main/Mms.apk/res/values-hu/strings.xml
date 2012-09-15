@@ -331,7 +331,7 @@ Utolsó kísérlet: %s."</string>
     <string name="context_menu_contact">Névjegy: %1$s</string>
     <string name="pref_theme_modify">Téma szerkesztése</string>
     <string name="pref_sms_theme_title">Stílusbeállítások</string>
-    <string name="pref_conversation_show_avatar">Mutat</string>
+    <string name="pref_conversation_show_avatar">Kép kijelzés</string>
     <string name="pref_messaging_style">Beszélgetés megjelenítési stílusa</string>
     <string name="pref_time_auto_group_title">Csoportosítva</string>
     <string name="pref_time_auto_group_summary">Csoportosítva időrendben</string>
@@ -374,8 +374,8 @@ Utolsó kísérlet: %s."</string>
     <string name="pref_summary_filter_phone">Csak a kiválasztott címzettek telefonszámainak megjelenítése.</string>
     <string name="pref_title_allow_si_sl_push">WAP push engedélyezése</string>
     <string name="pref_summary_allow_si_sl_push">WAP push üzenetek (SI/SL) fogadásának és értesítésének engedélyezése</string>
-    <string name="pref_title_show_recent_contacts">Új névjegyek mutatása</string>
-    <string name="pref_summary_show_recent_contacts">Show a list of recent contacts while composing a new message</string>
+    <string name="pref_title_show_recent_contacts">Legutóbbi címzettek kijelzése</string>
+    <string name="pref_summary_show_recent_contacts">Új üzenet írásakor a legutóbbi címzettek kijelzése</string>
     <string name="pref_title_hide_festival">Kiemelt fül elrejtése</string>
     <string name="pref_summary_hide_festival">Kiemelt fül elrejtése ha nem kínai nyelv van beállítva</string>
     <string name="pref_key_append_signature_title">Aláírás</string>
@@ -438,7 +438,7 @@ Utolsó kísérlet: %s."</string>
     <string name="dialog_title_date_type">Üzenet idejének kiválasztása</string>
     <string name="generating_mms_to_forward">Generating Mms to forward...</string>
     <string name="mi_msg">Felhő üzenet</string>
-    <string name="mx_enable">Felhő üzenetkezelés engedélyezés</string>
+    <string name="mx_enable">Felhő üzenetkezelés</string>
     <string name="mx_warning_notice">A felhő üzenetkezelés aktiválásához egy sms küldése szükséges. A szolgáltató költséget számíthat fel</string>
     <string name="mx_btn_enable">Engedélyez</string>
     <string name="mx_activating">Aktiválás…</string>
@@ -463,7 +463,13 @@ Utolsó kísérlet: %s."</string>
     <string name="mx_activate_hint_malformed_info">A művelet megszakítva, újraaktiválása szükségesd. Aktiválja?</string>
     <string name="mx_activate_hint_server">Központnak nem sikerült az aktiválás? Aktiválja?</string>
     <string name="need_download">Letöltés...</string>
-    <string name="confirm_delete_RUIM_message">Az üzenet örölve lesz a RUIM kártyáról.</string>
+    <string name="found_wild_messages_title">Üzenetek letöltése</string>
+    <string name="found_wild_messages">%s üzenetet találtam a másik SIM kártyán a MiCloud-ban, letölti őket?</string>
+    <string name="found_old_messages_title">Üzenetek feltöltése</string>
+    <string name="found_old_messages">%1$s üzenetet találtam a régi telefon fiókján. Feltölti őket a %2$s fiókjába?</string>
+    <string name="show_all_messages">Minden üzenet</string>
+    <string name="loading_all_messages">Minden üzenet betöltése...</string>
+    <string name="confirm_delete_RUIM_message">Az üzenet törölve lesz a RUIM kártyáról.</string>
     <string name="confirm_delete_all_RUIM_messages">Az össze üzenet törölve lesz a RUIM kártyáról.</string>
     <string name="festival_sms_sdcard_unready">Az SD kártya nem áll készen</string>
     <string name="ruim_empty">Nincs üzenet a RUIM kártyán.</string>
