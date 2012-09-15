@@ -503,6 +503,5 @@
     <string name="android_storage_usb">@*android:string/storage_usb</string>
     <string name="description_downloadtime">Letöltési idő:</string>
     <string name="android_date_time_set">@*android:string/date_time_set</string>
-    <string name="description_modifiedtime">Módosítva:</string>
     <string name="perm_use_pin_security">PIN kód használata</string>
 </resources>
