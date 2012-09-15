@@ -190,5 +190,4 @@
     <string name="decompress_to">Kicsomagolás…</string>
     <string name="decompress_confirm">Kicsomagolja?</string>
     <string name="decompress_cancel">Mégsem</string>
-    <string name="file_size">%d Bájt</string>
 </resources>
