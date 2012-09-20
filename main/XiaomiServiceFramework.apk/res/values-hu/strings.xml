@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="xmpp_server_addr" />
     <string name="app_name">XiaoMi Service Framework</string>
     <string name="account">Fiók</string>
     <string name="account_hint_text">Email/Telefonszám</string>
@@ -12,6 +13,7 @@
     <string name="password_hint_text">6~16 kar.</string>
     <string name="bad_authentication">Azonosítás sikertelen, hibás felhasználónév vagy jelszó</string>
     <string name="micloud_welcome_banner">XiaoMi Fiók</string>
+    <string name="micloud_welcome_skip_login" />
     <string name="micloud_account_name">XiaoMi Fiók</string>
     <string name="micloud_title">MiCloud</string>
     <string name="micloud_log_prompt">Bejelentkezés a XiaoMi fiókba</string>
@@ -40,7 +42,7 @@
     <string name="micloud_active_email_sent_1">Egy emailt küldtünk az alábbi email címre:</string>
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">Kattintson az emailben található linkre a Xiaomi Fiókja aktiválásához</string>
-    <string name="completed">Befejezés</string>
+    <string name="completed">Befejezve</string>
     <string name="header_data_and_synchronization">Adatok &amp; szinkronizáció</string>
     <string name="sync_one_time_sync">Érintse meg a szinkr.-hoz（ %1$s )</string>
     <string name="title_login">Bejelentkezés a XiaoMi Fiókba</string>
@@ -72,31 +74,45 @@
     <string name="data_sync_notice">Használja Xaomi fiókját Üzenetei, Névjegyzéke és egyéb adatai szinkronizálásához.</string>
     <string name="sync_dspt">XiaoMi fiók szinkronizálása</string>
     <string name="sync_sub_dspt">Egy Sms küldése szükséges az aktiváláshoz</string>
+    <string name="send_sms_for_sync_title">Szinkronizáló központ nincs aktiválva</string>
     <string name="send_sms_for_sync_notice">Egy aktiváló SMS elküldése szükséges,folytatja?</string>
     <string name="failed_to_send_activate_email">Aktiváló email elküldése sikertelen</string>
     <string name="access_denied">Belépés sikertelen</string>
-    <string name="micloud_on_pc_notice">"Látogassa meg az i.xiaomi.com
-honlapot adatai kezeléséhez"</string>
-    <string name="sync_item_gallery_title">Galéria szinkronzálás</string>
-    <string name="sync_item_gallery_summary">Képek és képernyőmentések szinkronzálása</string>
-    <string name="sub_sync_item_gallery_summary">Ajánlott,egyébként költséget számol fel</string>
-    <string name="sub_sync_item_title_wifi_only">csak WIFI</string>
-    <string name="sync_item_sms_title">Üzenetek szinkronizálás</string>
-    <string name="sync_item_sms_summary">Üzenetei szinkronizálása</string>
-    <string name="sub_sync_item_sms_summary">Ajánlott,egyébként költséget számol fel</string>
-    <string name="sub_sync_item_sms_title_wifi_only">Az MMS-hez csak WIFI</string>
-    <string name="sync_item_contact_title">Névjegyzék szinkronizálása</string>
-    <string name="sync_item_contact_summary">Xiaomi fiókja névjegyzékének szinkronizálása</string>
-    <string name="sub_sync_big_photo_item_title_wifi_only">Képekhez csak WIFI</string>
-    <string name="sub_sync_big_photo_item_summary">Ajánlott,egyébként költséget számol fel</string>
+    <string name="micloud_on_pc_notice">"Látogassa meg az i.xiaomi.comhonlapot adatai kezeléséhez"</string>
     <string name="sync_on">Be</string>
     <string name="sync_off">Ki</string>
     <string name="btn_activate">Aktiválás</string>
     <string name="no_sim">Nem található SIM kártya, szinkronizálás nem hajtható végre</string>
-    <string name="activate_fail_notification_title">Reactivate Xiaomi sync service</string>
     <string name="sim_changed_notification_content">SIM nincs aktiválva, aktiválja újra</string>
-    <string name="sim_changed_reactivate_notice">A jelenlegi SIM kártya inaktív. An SMS is required to activate the service, activate now?</string>
     <string name="activating">Aktiválás...</string>
-    <string name="check_phone_error_title">Failed to enable sync service</string>
-    <string name="check_phone_io_error">Háéózati hiba</string>
+    <string name="check_phone_error_title">Szinkronizáló központ engedélyezése nem sikerült</string>
+    <string name="check_phone_io_error">Hálózati hiba</string>
+    <string name="other_settings">Egyéb beállítások</string>
+    <string name="find_device">Eszköz keresés</string>
+    <string name="find_device_check_phone_error_title">Eszköz keresés sikertelen</string>
+    <string name="find_device_enabling">Bekapcsolás...</string>
+    <string name="find_device_disabling">Kikapcsolás...</string>
+    <string name="enable_find_device_error">%1$s,eszköz keresésének engedélyezése sikertelen</string>
+    <string name="disable_find_device_error">%1$s, eszköz keresésének tiltása sikertelen</string>
+    <string name="find_device_error_network">Hálózat nem elérhető</string>
+    <string name="find_device_error_server">Szerver hiba</string>
+    <string name="find_device_success_title">Eszközök keresése engedélyezve</string>
+    <string name="find_device_notice">Ha nem találja a telefonját, a my.xiaomi.com keresse meg, zárja le, vagy wipe-olja az adtait</string>
+    <string name="i_know">OK</string>
+    <string name="find_device_disabled_title">Eszközök keresése letiltva</string>
+    <string name="find_device_disabled_notice">You can reopen it via Settings - Accounts &amp; sync - Xiaomi Account</string>
+    <string name="activate_fail_notification_title">Xiaomi szinkronizáló központ újraaktiválás</string>
+    <string name="sim_changed_reactivate_notice">A jelenlegi SIM kártya inaktív. Egy SM szükséges az aktiváláshoz,elküldi?</string>
+    <string name="sub_sync_big_photo_item_summary">Ajánlott,egyébként költséget számol fel</string>
+    <string name="sub_sync_big_photo_item_title_wifi_only">Képekhez csak WIFI</string>
+    <string name="sub_sync_item_gallery_summary">Ajánlott,egyébként költséget számol fel</string>
+    <string name="sub_sync_item_sms_summary">Ajánlott,egyébként költséget számol fel</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Az MMS-hez csak WIFI</string>
+    <string name="sub_sync_item_title_wifi_only">csak WIFI</string>
+    <string name="sync_item_contact_summary">Xiaomi fiókja névjegyzékének szinkronizálása</string>
+    <string name="sync_item_contact_title">Névjegyzék szinkronizálása</string>
+    <string name="sync_item_gallery_title">Galéria szinkronzálás</string>
+    <string name="sync_item_gallery_summary">Képek és képernyőmentések szinkronzálása</string>
+    <string name="sync_item_sms_summary">Üzenetei szinkronizálása</string>
+    <string name="sync_item_sms_title">Üzenetek szinkronizálás</string>
 </resources>

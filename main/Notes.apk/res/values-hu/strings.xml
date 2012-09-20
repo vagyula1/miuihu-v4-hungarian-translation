@@ -5,7 +5,7 @@
     <string name="widget_havenot_content">Nincsenek kapcsolódó jegyzetek, érintse meg a készítéshez.</string>
     <string name="widget_under_visit_mode">Védett üzemmódban, a jegyzetek tartalma el lesz rejtve</string>
     <string name="notelist_string_info">...</string>
-    <string name="notelist_menu_new">Jegyzet készítése</string>
+    <string name="notelist_menu_new">Új jegyzet</string>
     <string name="note_alert_expired">Lejárt</string>
     <string name="format_date_ymd">yyyyMMdd</string>
     <string name="format_datetime_mdhm">MMMd kk:mm</string>
@@ -16,8 +16,8 @@
     <string name="note_link_tel">Hívás</string>
     <string name="note_link_email">Küldés email-ben</string>
     <string name="note_link_web">Web böngészése</string>
-    <string name="select_text">Szöveg kiválasztás</string>
-    <string name="set_remind_time_message">Emlékeztető beállítása</string>
+    <string name="note_link_other">Térkép megnyitás</string>
+    <string name="note_link_select">Szöveg kiválasztás</string>
     <string name="format_folder_files_count">(%d)</string>
     <string name="menu_create_folder">Új mappa</string>
     <string name="menu_export_text">Szöveg mentése</string>
@@ -36,7 +36,7 @@
     <string name="menu_font_small">Kicsi</string>
     <string name="menu_font_normal">Közepes</string>
     <string name="menu_font_large">Nagy</string>
-    <string name="menu_font_super">Szuper</string>
+    <string name="menu_font_super">Hatalmas</string>
     <string name="menu_folder_change_name">Mappa átnevezése</string>
     <string name="folder_exist">A %1$s mappa már létezik, kérem nevezze át</string>
     <string name="menu_share">Megosztás</string>
@@ -112,14 +112,6 @@
     <string name="toast_message_replace_image_fail">Kép megváltoztatása nem sikerült!</string>
     <string name="snippet_image_stub">[Image]</string>
     <string name="send_to_note">Send to Note</string>
-    <string name="delete_remind_time_message">Emlékeztető törlése sikerült</string>
-    <string name="menu_alert">Emlékeztessen</string>
-    <string name="menu_folder_delete">Mappa törlése</string>
-    <string name="menu_folder_view">Mappa megtekintése</string>
-    <string name="menu_remove_remind">Emlékeztető törlése</string>
-    <string name="menu_sync">Szinkronizálás</string>
-    <string name="menu_sync_cancel">Szinkronzálás megszakítás</string> 
-    <string name="note_link_other">Térkép megnyitása</string>
     <string name="app_widget2x2">Jegyzetek 2x2</string>
     <string name="app_widget4x4">Jegyzetek 4x4</string>
 </resources>

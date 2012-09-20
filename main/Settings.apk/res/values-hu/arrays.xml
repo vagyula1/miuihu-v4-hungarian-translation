@@ -468,14 +468,14 @@
         <item>2</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
     </string-array>
     <string-array name="led_freq_values">
         <item>2000</item>
@@ -528,10 +528,10 @@
         <item>@string/wifi_security_wapi_psk_hexadecimal</item>
     </array>
     <string-array name="back_long_press_timeout">
-        <item>0.5 second</item>
-        <item>1 second</item>
-        <item>1.5 seconds</item>
-        <item>2 seconds</item>
+        <item>0.5 másodperc</item>
+        <item>1 másodperc</item>
+        <item>1.5 másodperc</item>
+        <item>2 másodperc</item>
     </string-array>
     <string-array name="back_long_press_timeout_value">
         <item>500</item>
@@ -540,12 +540,12 @@
         <item>2000</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>5 seconds</item>
-        <item>10 seconds</item>
-        <item>20 seconds</item>
-        <item>Always</item>
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>5 másodperc</item>
+        <item>10 másodperc</item>
+        <item>20 másodperc</item>
+        <item>Mindig</item>
     </string-array>
     <string-array name="button_light_timeout_value">
         <item>1000</item>

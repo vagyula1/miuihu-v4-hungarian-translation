@@ -3,7 +3,7 @@
     <string name="app_name">Témák</string>
     <string name="theme_activity_lable">Témák</string>
     <string name="theme_changing_dialog_title">A téma beállítása, kérem várjon...</string>
-    <string name="theme_changed_message">beállításra került!</string>
+    <string name="theme_changed_message">Beállításra került!</string>
     <string name="theme_changed_failed_message">A téma beállítása sikertelen!</string>
     <string name="backup_preference_title">A téma biztonsági mentése</string>
     <string name="backup_theme_dialog_ok">Biztonsági mentés</string>
@@ -19,7 +19,7 @@
     <string name="theme_component_title_framework">Témák</string>
     <string name="theme_component_title_mms">SMS</string>
     <string name="theme_component_title_wallpaper">Háttérkép</string>
-    <string name="theme_component_title_lockwallpaper">Képernyőzár háttérkép</string>
+    <string name="theme_component_title_lockwallpaper">Zár háttere</string>
     <string name="theme_component_title_icon">Ikonok</string>
     <string name="theme_component_title_boot_animation">Boot Animáció</string>
     <string name="theme_component_title_boot_audio">Boot hang</string>
@@ -47,7 +47,7 @@
     <string name="wallpaper_settings">Háttérkép beállítások</string>
     <string name="desktop_wallpaper">Háttérkép</string>
     <string name="live_wallpaper">Élő háttérkép</string>
-    <string name="lockscreen_wallpaper">Képernyőzár háttere</string>
+    <string name="lockscreen_wallpaper">Zár háttere</string>
     <string name="change_wallpaper">Háttérkép megváltoztatása</string>
     <string name="component_settings_title">Az aktuális téma szerkesztése</string>
     <string name="component_select_title">Kiválasztott %1$s modul</string>
@@ -76,4 +76,7 @@
     <string name="wallpaper_decoded_error">Dekódolási hiba!</string>
     <string name="close">Bezár</string>
     <string name="download_success">Letöltés befejezve</string>
+    <string name="component_category_ringtone_title">Csengőhan</string>
+    <string name="component_category_style_title">Témák</string>
+    <string name="component_category_wallpaper_title">Háttérképek</string>
 </resources>

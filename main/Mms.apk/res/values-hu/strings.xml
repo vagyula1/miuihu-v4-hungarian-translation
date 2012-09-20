@@ -131,7 +131,7 @@ Utolsó kísérlet: %s."</string>
     <string name="pref_notification_settings_title">Értesítési beállítások</string>
     <string name="pref_mms_settings_title">Multimédiás üzenetek (MMS) beállításai</string>
     <string name="pref_sms_settings_title">Szöveges üzenetek (SMS) beállításai</string>
-    <string name="pref_sms_storage_title">Tárhelybeállítások</string>
+    <string name="pref_sms_storage_title">Tárhely beállítások</string>
     <string name="pref_summary_mms_delivery_reports">Kézbesítési jelentés kérése minden elküldött üzenetről</string>
     <string name="pref_summary_mms_read_reports">Olvasási visszaigazolás kérése minden elküldött üzenetről</string>
     <string name="pref_summary_sms_delivery_reports">Kézbesítési jelentés kérése minden elküldött üzenetről</string>
@@ -155,7 +155,7 @@ Utolsó kísérlet: %s."</string>
     <string name="prefDialogTitle_vibrateWhen">Rezgés</string>
     <string name="pref_title_mms_auto_retrieval">Automatikus letöltés</string>
     <string name="pref_summary_mms_auto_retrieval">Üzenetek automatikus letöltése</string>
-    <string name="pref_title_mms_retrieval_during_roaming">Automatikus letöltés barangolás során</string>
+    <string name="pref_title_mms_retrieval_during_roaming">Letöltés barangoláskor</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Üzenetek automatikus letöltése barangolás közben</string>
     <string name="to_label">"To "</string>
     <string name="confirm_dialog_title">Törlés</string>
@@ -331,7 +331,7 @@ Utolsó kísérlet: %s."</string>
     <string name="context_menu_contact">Névjegy: %1$s</string>
     <string name="pref_theme_modify">Téma szerkesztése</string>
     <string name="pref_sms_theme_title">Stílusbeállítások</string>
-    <string name="pref_conversation_show_avatar">Kép kijelzés</string>
+    <string name="pref_conversation_show_avatar">Fényép kijelzés</string>
     <string name="pref_messaging_style">Beszélgetés megjelenítési stílusa</string>
     <string name="pref_time_auto_group_title">Csoportosítva</string>
     <string name="pref_time_auto_group_summary">Csoportosítva időrendben</string>
@@ -363,7 +363,7 @@ Utolsó kísérlet: %s."</string>
     <string name="pref_title_delivery_reports">Kézbesítési jelentés</string>
     <string name="pref_summary_delivery_reports">Minden küldött üzenet után kézbesítési jelentés kérése.</string>
     <string name="pref_title_ringtone_repeat">Csengőhang ismétlése</string>
-    <string name="pref_summary_ringtone_repeat">Miután új hívása, vagy üzenete érkezett, 5 percenként értesítést fog kapni, míg meg nem tekinti.</string>
+    <string name="pref_summary_ringtone_repeat">Miután új üzenete érkezett, 5 percenként értesítést fog kapni, míg meg nem tekinti.</string>
     <string name="pref_other_title">Egyéb</string>
     <string name="pref_advanced_settings_title">Haladó beállítások</string>
     <string name="pref_title_delivery_ringtone">Kézbesítési jelentések hangja</string>
