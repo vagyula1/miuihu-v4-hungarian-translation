@@ -13,10 +13,10 @@
     <string name="resource_alarm_default">Riasztás</string>
     <string name="description_unknown">Ismeretlen</string>
     <string name="description_missed">N/A</string>
-    <string name="description_designer">Előadó:</string>
+    <string name="description_designer">Tervező:</string>
     <string name="description_author">Szerző:</string>
     <string name="description_size">Méret:</string>
-    <string name="description_modifiedtime">Módosítva:</string>
+    <string name="description_uploaddtime">Feltöltve:</string>
     <string name="description_download">Letöltve:</string>
     <string name="description_version">Verzió:</string>
     <string name="description_file">Fájl:</string>
@@ -481,7 +481,7 @@
     <string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
     <string name="perm_tigger_toggle_dspt">Allow apps to trigger toggles provided by status bar</string>
     <string name="perm_use_find_device">Locate device</string>
-    <string name="find_device_sim_change_instructions">A telefonj korlátozva van. Kérem helyezze be a Sim kártyát és gépelje be a Xiaomi fiókja jelszavát</string>
+    <string name="find_device_sim_change_instructions">A telefon le van zárva. Kérem helyezze be a SIM kártyát és gépelje be a Xiaomi fiókja jelszavát</string>
     <string name="check_phone_error_title">Szinkronizálás megnyitása sikertelen</string>
     <string name="check_phone_io_error">Hálózati hiba</string>
     <string name="send_sms_for_sync_title">Szinkronizálás aktiválásához SMS küldése</string>
@@ -495,8 +495,8 @@
     <string name="error_forbidden">You account has some issues. Szinkronizálás letiltva.</string>
     <string name="error_not_acceptable">Szerver hiba. Szinkronizálás letiltva.</string>
     <string name="screen_on_proximity_sensor_hint">"Tipp: Kilépéshez nyomja meg hosszan a 'Power' gombot. Letiltás :Beállítások-Megjelenítés"</string>
-    <string name="screen_on_proximity_sensor_summary">Téves használati mód engedélyezve. A telefon funkciói letiltva!</string>
-    <string name="screen_on_proximity_sensor_title">Téves telefonhasználat</string>
+    <string name="screen_on_proximity_sensor_summary">Véletlen használati mód engedélyezve. A telefon funkciói letiltva!</string>
+    <string name="screen_on_proximity_sensor_title">Véletlen használat megelőzése</string>
     <string name="wake_alarm_message">Riasztás szüneteltetve. Emlékeztessen %s</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
     <string name="format_time_in_12_hours">%1$s %2$s</string>
