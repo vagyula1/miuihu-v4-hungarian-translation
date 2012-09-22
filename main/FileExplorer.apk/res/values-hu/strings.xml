@@ -190,5 +190,11 @@
     <string name="decompress_to">Kicsomagolás…</string>
     <string name="decompress_confirm">Kicsomagolja?</string>
     <string name="decompress_cancel">Mégsem</string>
+    <string name="kuaipan_prompt">MiDrive Segítség</string>
+    <string name="kuaipan_prompt_message">A szerver jelenleg nem elérhető,próbálja később</string>
+    <string name="move_success">Áthelyezve</string>
+    <string name="move_failed">Áthelyezés nem seikerült</string>
+    <string name="copy_success">Átmásolva</string>
+    <string name="copy_failed">Másolás nem sikerült</string>
     <string name="file_size">%d Bájt</string>
 </resources>

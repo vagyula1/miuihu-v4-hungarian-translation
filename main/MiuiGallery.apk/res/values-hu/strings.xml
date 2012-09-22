@@ -54,6 +54,8 @@
     <string name="resume_playing_message">Folytatja a lejátszást innen %s ?</string>
     <string name="resume_playing_resume">Folytatás</string>
     <string name="loading">Betöltés...</string>
+    <string name="loading_thumbnail">Thumbnail betöltés...</string>
+    <string name="loading_will_cost">Downloading images will use your data allowance</string>
     <string name="fail_to_load">Nem sikerült betölteni</string>
     <string name="no_thumbnail">Nincs miniatűr</string>
     <string name="resume_playing_restart">Visszajátszás</string>
@@ -191,14 +193,20 @@
     <string name="tab_all_text">Mindkettő</string>
     <string name="move_cloud_data">Felhő galéria tartalma átmozgatva ide: %s</string>
     <string name="cloud_gallery_space_full">Feltöltés sikertelen! Felhő tároló megtelt</string>
-    <string name="cloud_gallery_setting">Cloud gallery settings</string>
-    <string name="sync_history_power_on">Sync when charging</string>
+    <string name="cloud_gallery_setting">CFelhő galéria beállítások</string>
+    <string name="sync_history_power_on">Szinkronizálás töltéskor</string>
     <string name="sync_history_power_on_summary">Enable, to reserve battery power when not charging.</string>
-    <string name="sync_only_in_wifi">Wi-Fi only</string>
-    <string name="sync_only_in_wifi_summary">Recommended to enable, otherwise it will consume network traffic.</string>
+    <string name="sync_only_in_wifi">csak Wi-Fi</string>
+    <string name="sync_only_in_wifi_summary">Engedélyezése ajánlott,különben költséget számolhat fel.</string>
     <string name="alert_message_sync_histoy_power_on">By default, history images are synchronized only when charging. You can use Setting menu to change the option.</string>
     <string name="alert">Notice</string>
-    <string name="gallery_cloud_provider_name">Gallery</string>
+    <string name="gallery_cloud_provider_name">Galéria</string>
+    <string name="sync_album">Album szinkronizálás</string>
+    <string name="account_not_login">You can login to your Xiaomi account and sync your data to MiCloud</string>
+    <string name="sync_not_open">You can sync your mobile pictures to the cloud automatically for easier convenience.</string>
+    <string name="login_account">Belépés és Szinkr.</string>
+    <string name="open_sync">Szinkronizálás</string>
+    <string name="alert_message_initial_cloud">The system will automatically upload old and new photos and screenshots only when there is a Wi-Fi connection.</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">A kép betöltése sikertelen</string>
     <string name="already_saved">A kép mentve: %s</string>
@@ -267,7 +275,9 @@
     <string name="video_property">Videó tulajdonságai</string>
     <string name="cancel_bookmark">Eltávolítás a kedvencek közül</string>
     <string name="add_bookmark">Hozzáadás a kedvencekhez</string>
+    <string name="internal_sd_card">Belső SD kártya</string>
     <string name="sd_folder">SD-kártya mappa</string>
+    <string name="external_usb_device">Külső USB eszköz</string>
     <string name="menu_item_sort">Rendezés</string>
     <string name="menu_item_sort_name_asc">Név szerint (A-Z)</string>
     <string name="menu_item_sort_name_desc">Név szerint (Z-A)</string>
@@ -286,6 +296,7 @@
     <string name="how_many_videos">%d videó</string>
     <string name="how_many_sub_folders">%d mappa</string>
     <string name="how_many_pics">%d kép</string>
+    <string name="how_many_volumes">%d tároló eszköz</string>
     <string name="file_info_title">Név:</string>
     <string name="file_info_path">Elérési út:</string>
     <string name="file_info_geo_location">Hely:</string>
@@ -299,5 +310,10 @@
     <string name="no_storage_disable_cloud_albums">Felhő albumok nem elérhető, próbálja később.</string>
     <string name="message_no_delete_access">A hozzáférés megtagadva. Nem törölhető: %s</string>
     <string name="fail_init_gallery_db_helper">Alkalmazás bezárva, a galéria adatbázis megnyitása sikertelen; a tároló megtelt.</string>
+    <string name="crop_fail_to_load_image">Vágás betöltése a képhez nem sikerült.</string>
+    <string name="error_should_not_select_image">Figyelem: kérem ne válasszon ki képet.</string>
+    <string name="error_should_not_select_video">Figyelem: kérem ne válasszon ki videót.</string>
+    <string name="storage_all_volumes">Összes tároló eszköz</string>
     <string name="apply_pic_for">Beállít,mint:</string>
+    <string name="sd_folder">SD kártya mappa</string>
 </resources>

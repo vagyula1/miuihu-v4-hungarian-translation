@@ -34,8 +34,7 @@
     <string name="expire_on">Lejár: %s</string>
     <string name="kilobyte">kB</string>
     <string name="undelivered_msg_dialog_title">Kézbesítetlen üzenet</string>
-    <string name="undelivered_msg_dialog_body">"Nem lehet elküldeni ezt az üzenetet.
-Utolsó kísérlet: %s."</string>
+    <string name="undelivered_msg_dialog_body">"Nem lehet elküldeni ezt az üzenetet.Utolsó kísérlet: %s."</string>
     <string name="undelivered_sms_dialog_body">Nem lehet elküldeni ezt az üzenetet.</string>
     <string name="delete_thread">Szál törlése</string>
     <string name="menu_forward">Továbbítás</string>

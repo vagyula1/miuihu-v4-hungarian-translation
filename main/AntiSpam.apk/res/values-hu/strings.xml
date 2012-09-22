@@ -116,4 +116,11 @@
     <string name="check_nothing">Kijelölés törlése</string>
     <string name="close_rule">Szabály tiltása</string>
     <string name="fw_log_inf">Tűzfal</string>
+    <string name="remove_contact">Törli a kiválasztott névjegyet?</string>
+    <string name="remove_inf">Törli a kiválasztott információt?</string>
+    <string name="remove_sms">Törli az összes üzenet jelentést?</string>
+    <string name="remove_call_log">Törli a hívásnaplót?</string>
+    <string name="remove_keyword">Biztos,hogy törli ezt a kulcsszót?</string>
+    <string name="remove_all_keywords">Biztos,hogy törli az összes kulcsszót?</string>
+    <string name="remove_delete">Törlés</string>
 </resources>

@@ -97,11 +97,16 @@
     <string name="find_device_error_network">Hálózat nem elérhető</string>
     <string name="find_device_error_server">Szerver hiba</string>
     <string name="find_device_success_title">Eszközök keresése engedélyezve</string>
-    <string name="find_device_notice">Ha nem találja a telefonját, a my.xiaomi.com keresse meg, zárja le, vagy wipe-olja az adtait</string>
     <string name="i_know">OK</string>
     <string name="find_device_disabled_title">Eszközök keresése letiltva</string>
     <string name="find_device_disabled_notice">You can reopen it via Settings - Accounts &amp; sync - Xiaomi Account</string>
+    <string name="user_agreement_p1">A bejelentkezéskor elfogadja a</string>
+    <string name="user_agreement_p2">Xiaomi Felhasználási feltételeket</string>
+    <string name="user_agreement_p3"> és </string>
+    <string name="user_agreement_p4">az adatvédelmi nyilatkozatot.</string>
+    <string name="user_agreement_p5">Regisztrációkor elfogadja a</string>
     <string name="activate_fail_notification_title">Xiaomi szinkronizáló központ újraaktiválás</string>
+    <string name="find_device_notice">Ha nem találja a telefonját, a my.xiaomi.com keresse meg, zárja le, vagy wipe-olja az adtait</string>
     <string name="sim_changed_reactivate_notice">A jelenlegi SIM kártya inaktív. Egy SM szükséges az aktiváláshoz,elküldi?</string>
     <string name="sub_sync_big_photo_item_summary">Ajánlott,egyébként költséget számol fel</string>
     <string name="sub_sync_big_photo_item_title_wifi_only">Képekhez csak WIFI</string>

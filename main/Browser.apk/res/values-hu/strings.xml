@@ -368,6 +368,11 @@
     <string name="bookmark_add_to">ide</string>
     <string name="add_folder">Új Könyvtár</string>
     <string name="folder_name">Könyvtár neve</string>
+    <string name="bookmark_this_page_to_readmodelist">Add this page to Reading List bookmark</string>
+    <string name="readmodelist_bookmarks_to_show">Reading List</string>
+    <string name="bookmark_to_readmodelist_saved">Saved to Reading List bookmarks.</string>
+    <string name="bookmark_to_readmodelist_not_saved">"Couldn't save Reading List bookmark."</string>
+    <string name="readmode_reach_last_page">Last page has been reached</string>
     <string name="share_link">Link megosztás</string>
     <string name="open_all_bookmarks">Mind megnyitása</string>
     <string name="move_to_up_folder">Egy szinttel feljebb</string>
@@ -433,10 +438,22 @@
     <string name="menu_disable_night_mode">Éjszakai mód letiltása</string>
     <string name="tab_opened_background">Lap megnyitása a háttérben.</string>
     <string name="tab_closed">Lap bezárva.</string>
-    <string name="search_cancel">Mégse</string>
+    <string name="search_cancel">Mégsem</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo</string>
     <string name="search_bing">Bing</string>
+    <string name="MIUI_homepage">MIUI Home</string>
     <string name="manage_feature_permissions">Engedélyek kezelése</string>
+    <string name="other_bookmarks">Egyéb könyvjelzők</string>
+    <string name="pref_allow_apptabs">Allow multiple tabs per app</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
+    <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
+    <string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
+    <string name="pref_link_prefetch_title">Web page preloading</string>
+    <string name="pref_link_prefetch_value_always">MINDIG</string>
+    <string name="pref_link_prefetch_value_never">SOHA</string>
+    <string name="pref_link_prefetch_value_wifi_only">CSAK_WIFI</string>
+    <string name="readmodelist_bookmarks">_readinglist_in_database_</string>
+    <string name="saving_snapshot">Mentés…</string>
 </resources>

@@ -6,6 +6,7 @@
     <string name="process" />
     <string name="application_name">MiuiHome</string>
     <string name="folder_name">Mappa</string>
+    <string name="unnamed_folder_name">Névtelen mappa</string>
     <string name="chooser_wallpaper">Háttérkép kiválasztása:</string>
     <string name="activity_not_found">Az alkalmazás nincs telepítve.</string>
     <string name="cancel_action">Mégse</string>

@@ -988,6 +988,12 @@ Kérem vegye figyelembe, ha mégegyszer elrontja, a SIM kártya mehet a kukába!
     <string name="missed_call_notify_thrice">Háromszor</string>
     <string name="missed_call_notify_five_times">Ötször</string>
     <string name="missed_call_notify_ten_times">Tízszer</string>
+    <string name="dial_pad_touch_tone_setting_miui">Tárcsázóhang beállítások</string>
+    <string name="dial_pad_touch_tone_miui">Tárcsázóhangok</string>
+    <string name="tone_miui">Tone</string>
+    <string name="dial_pad_touch_tone_default_miui">Alapértelmezett</string>
+    <string name="dial_pad_touch_tone_piano_miui">Zongora</string>
+    <string name="dial_pad_touch_tone_human_miui">Emberi hang</string>
     <string name="label_rn1dp">UIM network1 unlock PIN</string>
     <string name="label_rn2dp">UIM network2 unlock PIN</string>
     <string name="label_rhrpd">UIM hrpd unlock PIN</string>

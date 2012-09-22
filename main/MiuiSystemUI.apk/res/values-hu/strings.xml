@@ -290,4 +290,5 @@
     <string name="notifications_off_title">Értesítések kikapcsolva</string>
     <string name="share">Megosztás</string>
     <string name="settings_auto_dismiss_screenshot_notification">Auto dismiss screenshot notification</string>
+    <string name="status_bar_time_format_12_simple">h:mm</string>
 </resources>
