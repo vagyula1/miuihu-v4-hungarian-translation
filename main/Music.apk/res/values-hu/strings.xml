@@ -91,7 +91,6 @@
     <string name="sdcard_busy_message_nosdcard">USB háttértár foglalt.</string>
     <string name="sdcard_error_message">Hiba az SD kártya írásakor.</string>
     <string name="sdcard_error_message_nosdcard">Hiba az USB háttértár írásakor.</string>
-    <string name="sdcard_error_message_nosdcard">Hiba történt az SD kártyán.</string>
     <string name="unknown_artist_name">Ismeretlen előadó</string>
     <string name="unknown_album_name">Ismeretlen album</string>
     <string name="ringtone_menu">Használat csengőhangként</string>
@@ -231,7 +230,6 @@
     <string name="track_album_format" formatted="false">%s - %s</string>
     <string name="channel_postfix">MHZ</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
-    <string name="clear_search_history">Keresési előzmény törlése</string>
     <string name="continue_when_wifi_disconnect">Lejátszás folytatása mobil adatkapcsolattal.</string>
     <string name="donot_ask_me_again">"Ne kérdezze újra"</string>
     <string name="flow_save_confirm">Tudom</string>
@@ -240,8 +238,6 @@
     <string name="load_category_failed">Kategória lista betöltése sikertelen, kérem próbálja újra</string>
     <string name="load_category_in_process">Listá(k) betöltése</string>
     <string name="no_tracks_title">Nincsenek zenék</string>
-    <string name="search_failed">Keresés sikertelen</string>
-    <string name="search_history">Keresési előzmény</string>
     <string name="search_in_process">Keresés...</string>
     <string name="search_result_format">\"%s\"</string>
     <string name="stop_when_wifi_disconnect">"Wi-Fi kapcsolat megszakadt, online zene megállt.  Ha adatkapcsolattal akarja folytatni a lejátszást, változtassa meg a beállításokat."</string>

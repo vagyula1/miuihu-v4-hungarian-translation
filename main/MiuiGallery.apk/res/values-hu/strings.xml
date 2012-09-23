@@ -315,5 +315,4 @@
     <string name="error_should_not_select_video">Figyelem: kérem ne válasszon ki videót.</string>
     <string name="storage_all_volumes">Összes tároló eszköz</string>
     <string name="apply_pic_for">Beállít,mint:</string>
-    <string name="sd_folder">SD kártya mappa</string>
 </resources>
