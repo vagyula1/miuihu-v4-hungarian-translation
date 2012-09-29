@@ -80,7 +80,7 @@
     <string name="no_wifi">Nincs Wi-Fi hálózat</string>
     <string name="no_wifi_hint">Nincs Wi-Fi kapcsolat</string>
     <string name="search_title">Fájlok keresése</string>
-    <string name="file_size">%d bájt</string>
+    <string name="search_hint">Fájlok keresése</string>
     <string name="dialog_select_type">File tipus kiválasztása</string>
     <string name="dialog_type_text">Szöveg</string>
     <string name="dialog_type_audio">Audió</string>
@@ -114,7 +114,7 @@
     <string name="ui_bar_txt_download_progress">Letötlés...</string>
     <string name="ui_bar_txt_download_success">MiDrive: Letöltés sikeres</string>
     <string name="ui_bar_txt_download_failed">MiDrive: Letöltés sikertelen</string>
-    <string name="ui_bar_txt_remain_task">%1$d van hátra</string>
+    <string name="ui_bar_txt_text">MiDrive fájlátvitel...%1$d hátra van (%2$d%%)</string>
     <string name="ui_bar_title_upload">MiDrive: feltöltés</string>
     <string name="ui_bar_txt_upload_progress">Feltöltés...</string>
     <string name="ui_bar_txt_upload_success">MiDrive: Sikeres feltöltés</string>
@@ -196,4 +196,7 @@
     <string name="move_failed">Áthelyezés nem seikerült</string>
     <string name="copy_success">Átmásolva</string>
     <string name="copy_failed">Másolás nem sikerült</string>
+    <string name="toast_file_not_can_read">A fájl nem olvasható.</string>
+    <string name="file_size">%d Bájt</string>
+    <string name="ui_bar_txt_remain_task">%1$d van hátra</string>
 </resources>

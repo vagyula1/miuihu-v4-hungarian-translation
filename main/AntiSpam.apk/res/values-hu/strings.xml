@@ -108,6 +108,8 @@
     <string name="fw_in_blacklist">Szám: %s már létezik a feketelistán</string>
     <string name="fw_in_whitelist">Szám: %s már létezik a fehérlistán</string>
     <string name="fw_import_ms">Üzenetek importálása</string>
+    <string name="confirm_clear_blacklist">Törli a feketelistát?</string>
+    <string name="confirm_clear_whitelist">Törli a fehérlistát?</string>
     <string name="context_call">Hívás</string>
     <string name="context_ms">SMS / MMS küldés</string>
     <string name="context_new_contact">Új névjegy</string>

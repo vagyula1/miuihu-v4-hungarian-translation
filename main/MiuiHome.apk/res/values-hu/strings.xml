@@ -121,7 +121,8 @@
     <string name="gadget_weather_download_title">Letöltés</string>
     <string name="gadget_weather_download_message">Az alábbi téma letötlése szükséges: %1$s. méret: %2$s. Kérem a letötlés után válassza ki újra</string>
     <string name="gadget_weather_to">Hozzáadás</string>
-    <string name="install_body_format">Alkalmazás telepítése \"%s\"?</string>
+    <string name="gadget_weather_downloading">Téma letöltése. Kérem válassza újra a letöltés befejeztével</string>
+    <string name="upside_apps_title">Alkalmazás kiválasztás</string>
     <string name="upside_edit_bottom_empty_tip">Szerkesztéshez érintse meg a négyzetet</string>
     <string name="upside_edit_bar_empty">Üres</string>
     <string name="upside_edit_bar_select_app">Alkalmazás kiválasztás</string>

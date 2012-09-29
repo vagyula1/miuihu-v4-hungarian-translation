@@ -7,4 +7,9 @@
     <string name="location_south">%s D</string>
     <string name="location_east">%s K</string>
     <string name="location_west">%s N</string>
+    <string name="calibrate_success">Kalibráció befejezvee</string>
+    <string name="pressure">Légnyomás %.1fhPa</string>
+    <string name="altitude">Magasság %.1fm</string>
+    <string name="hpa">hPa</string>
+    <string name="meter">méter</string>
 </resources>

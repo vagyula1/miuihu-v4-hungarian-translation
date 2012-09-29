@@ -187,8 +187,8 @@
     <string name="all_album">Összes</string>
     <string name="all_recent">Kedvencek</string>
     <string name="photos">Kép(ek)</string>
-    <string name="no_recent_album">Albums can be added to favorites for quick viewing</string>
-     <string name="tab_lockscreen_text">Képernyőzár</string>
+    <string name="no_recent_album">Albumok a kedvencekhez adhatóak a gyors előnézethez</string>
+    <string name="tab_lockscreen_text">Képernyőzár</string>
     <string name="tab_wallpaper_text">Háttérkép</string>
     <string name="tab_all_text">Mindkettő</string>
     <string name="move_cloud_data">Felhő galéria tartalma átmozgatva ide: %s</string>
@@ -202,11 +202,18 @@
     <string name="alert">Notice</string>
     <string name="gallery_cloud_provider_name">Galéria</string>
     <string name="sync_album">Album szinkronizálás</string>
+    <string name="sync_album_summary">Upload your pictures and screenshots to your MiCloud album storage</string>
     <string name="account_not_login">You can login to your Xiaomi account and sync your data to MiCloud</string>
     <string name="sync_not_open">You can sync your mobile pictures to the cloud automatically for easier convenience.</string>
     <string name="login_account">Belépés és Szinkr.</string>
     <string name="open_sync">Szinkronizálás</string>
-    <string name="alert_message_initial_cloud">The system will automatically upload old and new photos and screenshots only when there is a Wi-Fi connection.</string>
+    <string name="alert_message_initial_cloud">Ha van WI-FI kapcsolat,a rendszer automatikusan feltölti a régi és új képeket,képernyőmentéseket.</string>
+    <string name="cloud_gallery_no_pictures">Nincs kép a MiCloud-ban</string>
+    <string name="only_upload_in_charging">A képek csak töltéskor töltődnek fel; kérem csatlakoztassa a töltőt.</string>
+    <string name="no_network_connected">Nincs kapcsolat</string>
+    <string name="modify_cloud_settings">MiCloud beállítások</string>
+    <string name="click_to_enter_camera">Kamera megnyitása</string>
+    <string name="camera_view_none_message">A fényképek jelenjenek meg itt.</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">A kép betöltése sikertelen</string>
     <string name="already_saved">A kép mentve: %s</string>
@@ -259,6 +266,7 @@
     <string name="slideshow_interval_invalid">Szünet beállított értéke érvénytelen</string>
     <string name="slideshow_repeat_mode">Ismétlés</string>
     <string name="clear_thumbnail_cache">Thumbnail cache törlése</string>
+    <string name="clear_thumbnail_cache_summary">Galéria böngészéskor autmatikusan generál miniatűr-előnézeti képeket.A cache ürítése növeli a tárhelyet.</string>
     <string name="clear_thumbnail_cache_confirm">Thumbnail cache törölve. A Galéria újraolvassa a file-okat</string>
     <string name="cleaning_cache">Cache törlése...</string>
     <string name="seconds">másodperc</string>
@@ -276,7 +284,7 @@
     <string name="cancel_bookmark">Eltávolítás a kedvencek közül</string>
     <string name="add_bookmark">Hozzáadás a kedvencekhez</string>
     <string name="internal_sd_card">Belső SD kártya</string>
-    <string name="sd_folder">SD-kártya mappa</string>
+    <string name="external_sd_card">SD kártya</string>
     <string name="external_usb_device">Külső USB eszköz</string>
     <string name="menu_item_sort">Rendezés</string>
     <string name="menu_item_sort_name_asc">Név szerint (A-Z)</string>
@@ -315,4 +323,5 @@
     <string name="error_should_not_select_video">Figyelem: kérem ne válasszon ki videót.</string>
     <string name="storage_all_volumes">Összes tároló eszköz</string>
     <string name="apply_pic_for">Beállít,mint:</string>
+    <string name="sd_folder">SD kártya mappa</string>
 </resources>
