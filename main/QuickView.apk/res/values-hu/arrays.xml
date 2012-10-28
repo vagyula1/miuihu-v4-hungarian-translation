@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="defalut_dest_list_activity">
-        <item>Névjegyek</item>
-        <item>Új e-mail cím</item>
-        <item>Új telefonszám</item>
-    </string-array>
-</resources>
