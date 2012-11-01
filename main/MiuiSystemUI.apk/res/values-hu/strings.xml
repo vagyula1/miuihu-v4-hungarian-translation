@@ -241,7 +241,6 @@
     <string name="screen_key_back">Vissza gomb</string>
     <string name="status_bar_network_flow_today">Ma:%1$s</string>
     <string name="status_bar_network_flow">Ma: %1$s Hátralévő: %2$s App-ok: %3$s</string>
-    <string name="status_bar_network_flow_exceed">"Today: %1$s | Exceeded: %2$s  |  Apps: %3$s"</string>
     <string name="accessibility_rotation_lock_off">A képernyő automatikusan elfordul.</string>
     <string name="toast_rotation_locked">A képernyő lezárva fekvő módban.</string>
     <string name="accessibility_rotation_lock_on_portrait">A képernyő lezárva álló módban.</string>
