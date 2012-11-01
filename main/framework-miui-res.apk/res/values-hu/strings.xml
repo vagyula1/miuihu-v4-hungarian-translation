@@ -4,7 +4,7 @@
     <string name="reboot_progress">Újraindítás...</string>
     <string name="resourcebrowser_lable">Erőforrások</string>
     <string name="sdcard_status_changed_dialog_title">SD kártya lett behelyezve vagy kivéve</string>
-    <string name="sdcard_status_changed_dialog_message">"Kilépés. Futtassa újra a forrás frissítéséhez."</string>
+    <string name="sdcard_status_changed_dialog_message">Kilépés. Futtassa újra a forrás frissítéséhez.</string>
     <string name="resource_transparent_wallpaper">Áttetszőség</string>
     <string name="resource_mute">Nincs</string>
     <string name="resource_default">Alapértelmezett csengőhang</string>
@@ -16,8 +16,8 @@
     <string name="description_designer">Tervező:</string>
     <string name="description_author">Szerző:</string>
     <string name="description_size">Méret:</string>
-    <string name="description_uploaddtime">Feltöltve:</string>
     <string name="description_download">Letöltve:</string>
+    <string name="description_download">Letöltés:</string>
     <string name="description_version">Verzió:</string>
     <string name="description_file">Fájl:</string>
     <string name="resource_local">SD kártya</string>
@@ -68,12 +68,12 @@
     <string name="keyguard_incorrect_pin_with_retry_count">Belépés Left: %d</string>
     <string name="caller_info_name_delimiter">vagy</string>
     <string name="first_back_long_press_title">Vissza hardver gomb - Alkalmazás kényszerített bezárása</string>
-    <string name="first_back_long_press_message">"Engedélyezni akarja, hogy a gomb hosszú lenyomása bezárja az aktuális alkalmazást? Engedélyezés: Beállítások > Rendszer > Gombok"</string>
+    <string name="first_back_long_press_message">Engedélyezni akarja, hogy a gomb hosszú lenyomása bezárja az aktuális alkalmazást? Engedélyezés: Beállítások > Rendszer > Gombok</string>
     <string name="force_exit_message">Alkalmazás kényszerített bezárása \"%1$s\"</string>
     <string name="global_action_toggle_privacy_mode">Adatvédelem</string>
     <string name="global_action_privacy_mode_on_status">Adatvédelmi mód: Bekapcsolva</string>
-    <string name="global_action_privacy_mode_dialog_message">Adatvédelmi módban az üzenetek, hívások és értesítések rejtve maradnak a képernyőn és a képernyő nem módosítható</string>
     <string name="global_action_privacy_mode_on_toast">Adatvédelmi mód bekapcsolva - üzenetek, hívások és értesítések rejtve maradnak a képernyőn és a képernyő nem módosítható</string>
+    <string name="global_action_privacy_mode_dialog_message">Adatvédelmi módban az üzenetek, hívások és értesítések rejtve maradnak a képernyőn és a képernyő nem módosítható</string>
     <string name="global_action_privacy_mode_off_status">Adatvédelmi mód: Kikapcsolva</string>
     <string name="delete">Töröl</string>
     <string name="select_all">Az összes kijelölése</string>
@@ -136,6 +136,12 @@
     <string name="screen_on_proximity_sensor_title">Véletlen használat megelőzése</string>
     <string name="wake_alarm_message">Riasztás szüneteltetve. Emlékeztessen %s</string>
     <string name="description_downloadtime">Letöltési idő:</string>
-    <string name="description_modifiedtime">Módosítva:</string>
-    <string name="perm_use_pin_security">PIN kód használata</string>
+    <string name="permlab_accessNote">Access your notes</string>
+    <string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all your notes.</string>
+    <string name="memory_clear_result">"Felszabadult %1$s memória,
+jelenleg elérhető %2$s"</string>
+    <string name="memory_clear_nothing_result">Nincs felszabadítható memória</string>
+    <string name="perm_send_push_lab">Send push message</string>
+    <string name="perm_send_push_dspt">Allow to send Xiaomi push message</string>
+    <string name="miui_user_manual_title">Felhasználói útmutató</string>
 </resources>
