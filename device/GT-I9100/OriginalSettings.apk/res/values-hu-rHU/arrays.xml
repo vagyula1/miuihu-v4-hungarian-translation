@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_timeout_entries">
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>Mindig kikapcsolva</item>
+        <item>Mindig bekapcsolva</item>
+    </string-array>
+    <string-array name="psm_entries_new">
+        <item>10%-os töltöttség</item>   
+	<item>20%-os töltöttség</item>
+        <item>30%-os töltöttség</item>
+        <item>40%-os töltöttség</item>
+        <item>50%-os töltöttség</item>
+ </string-array>
+</resources>
