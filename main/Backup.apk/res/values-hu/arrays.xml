@@ -11,6 +11,7 @@
         <item>Biztonság</item>
         <item>Kamera</item>
         <item>Hálózati felügyelet</item>
+		<item>Időjárás adatok</item>   
     </string-array>
     <string-array name="system_data_label">
         <item>Névjegyzék</item>

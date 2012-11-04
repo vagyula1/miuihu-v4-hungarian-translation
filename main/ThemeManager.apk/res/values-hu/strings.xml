@@ -76,7 +76,5 @@
     <string name="wallpaper_decoded_error">Dekódolási hiba!</string>
     <string name="close">Bezár</string>
     <string name="download_success">Letöltés befejezve</string>
-    <string name="component_category_ringtone_title">Csengőhan</string>
-    <string name="component_category_style_title">Témák</string>
-    <string name="component_category_wallpaper_title">Háttérképek</string>
+    <string name="theme_importing">Témák importálása</string>
 </resources>

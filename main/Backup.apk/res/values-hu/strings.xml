@@ -23,8 +23,6 @@
     <string name="delete_backup_process">Mentés törlése, kérem, várjon...</string>
     <string name="backup_error">Hiba a törléskor, mentés folyamatban</string>
     <string name="delete_failed_backup_confirm">A biztonsági mentés hibás, visszaállítás nem lehetséges</string> 
-   <string name="batch_delete_backup_confirm">"
- Törli a kiválasztott mentéseket?</string>
     <string name="start_restore">Visszaállítás</string>
     <string name="backup_file_error">Hiba a biztonsági mentésben, a művelet érvénytelen.</string>
     <string name="unit_byte">" byte"</string>
@@ -48,7 +46,7 @@
     <string name="findlost_contact">Névjegy keresése</string>
     <string name="findlost_contact_online">Névjegy keresése online</string>
     <string name="cloud_backup_login">Bejelentkezés</string>
-    <string name="cloud_backup_hint">"Bejelentkezés, hogy adatai biztonságban legyenek"</string>
+    <string name="cloud_backup_hint">Bejelentkezés, hogy adatai biztonságban legyenek</string>
     <string name="cloud_backup_window_title">Online adatmentés</string>
     <string name="cloud_restore_window_title">Online adatvisszaállítás</string>
     <string name="cloud_restore_title">Online adatmentés</string>
@@ -165,7 +163,7 @@ megszakítás adat vesztéssel járhat"</string>
     <string name="enable_encrypt_indicator">A mentés nem titkosított,kattintson ide az engedélyezéshez.</string>
     <string name="enable_encrypt">Engedélyezés</string>
     <string name="already_enable_encrypt">Titkosítás engedélyezés</string>
-    <string name="enable_encrypt_summery1">"A rendszer titkosítja a helyi mentést a Xiaomi fiók alapján, Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába."</string>
+    <string name="enable_encrypt_summery1">A rendszer titkosítja a helyi mentést a Xiaomi fiók alapján, Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>
     <string name="enable_encrypt_summery2">Az új mentés automatikusan titkosítva lesz. Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>
     <string name="enable_encrypt_xiaomi_account">A mentést készítette %1$s, kérem törölje jelenlegi fiókját, és %2$s jelentkezzen be, adatai visszaállításához.</string>
     <string name="enable_encrypt_ok">OK</string>
@@ -173,7 +171,5 @@ megszakítás adat vesztéssel járhat"</string>
     <string name="enable_encrypt_fail">Titkosítás engedélyezése sikertelen</string>
     <string name="read_encrypt_fail">Titkosítás olvasása sikertelen</string>
     <string name="exchange_account">Exchange fiók</string>
-    <string name="delete_backup_confirm">Törli a kiválasztott mentést?</string>
-
 </resources>
  

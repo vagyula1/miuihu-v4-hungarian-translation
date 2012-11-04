@@ -450,6 +450,8 @@
     <string name="mx_count_dspt">Az aktiválás óta a MIUI %d felhő üzenet érkezett</string>
     <string name="mx_auto_resend_sms">SMS küldés</string>
     <string name="mx_auto_resend_sms_summary">Küldje SMS-ként ha a Felhő üzenet nem elérhető. A szolgáltató költséget számíthat fel</string>
+    <string name="mx_auto_resend_mms">Auto MMS újraküldés</string>
+    <string name="mx_auto_resend_mms_summary">Küldje MMS-ként ha a Felhő üzenet nem elérhető. A szolgáltató költséget számíthat fel</string>
     <string name="msg_type_hint_sms">Szöveges üzenet</string>
     <string name="msg_type_hint_mms">Multimédia üzenet</string>
     <string name="msg_type_hint_mx">Felhő üzenet</string>
@@ -468,11 +470,10 @@
     <string name="found_old_messages">%1$s üzenetet találtam a régi telefon fiókján. Feltölti őket a %2$s fiókjába?</string>
     <string name="show_all_messages">Minden üzenet</string>
     <string name="loading_all_messages">Minden üzenet betöltése...</string>
-    <string name="confirm_delete_RUIM_message">Az üzenet törölve lesz a RUIM kártyáról.</string>
-    <string name="confirm_delete_all_RUIM_messages">Az össze üzenet törölve lesz a RUIM kártyáról.</string>
-    <string name="festival_sms_sdcard_unready">Az SD kártya nem áll készen</string>
-    <string name="ruim_empty">Nincs üzenet a RUIM kártyán.</string>
-    <string name="ruim_full_title">RUIM kártya megtelt</string>
-    <string name="ruim_manage_messages_title">Szöveges üzenetek a RUIM kártyáncard</string>
-    <string name="save_to_ruim">Mentés a RUIM kártyáracard</string>
+
+    <string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
+    <string name="loading_mms">MMS betöltés…</string>
+    <string name="add_number_to_sender">Szám hozzáadás %s</string>
+    <string name="context_menu_dial">Hívás</string>
+    <string name="ex_type_mms">MMS</string>
 </resources>
