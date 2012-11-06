@@ -470,10 +470,7 @@
     <string name="found_old_messages">%1$s üzenetet találtam a régi telefon fiókján. Feltölti őket a %2$s fiókjába?</string>
     <string name="show_all_messages">Minden üzenet</string>
     <string name="loading_all_messages">Minden üzenet betöltése...</string>
-
     <string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
     <string name="loading_mms">MMS betöltés…</string>
     <string name="add_number_to_sender">Szám hozzáadás %s</string>
-    <string name="context_menu_dial">Hívás</string>
-    <string name="ex_type_mms">MMS</string>
 </resources>
