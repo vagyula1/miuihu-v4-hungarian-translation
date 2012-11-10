@@ -42,6 +42,13 @@
     <string name="redeye_tooltip">Tap to remove red eyes</string>
     <string name="rotate_tooltip">Drag photo to rotate it</string>
     <string name="straighten_tooltip">Drag photo to straighten it</string>
+    <string name="contrast">Kontraszt</string>
+    <string name="frame_button">Keret</string>
+    <string name="frame_classic">Klasszikus</string>
+    <string name="frame_white">fehér</string>
+    <string name="frame_black">Fekete</string>
+    <string name="frame_semicircle">Félkör</string>
+    <string name="frame_movie">Mozi</string>
     <string name="app_name">MIUIGaléria</string>
     <string name="gadget_title">Kép keret</string>
     <string name="details_ms">%1$02d:%2$02d</string>
@@ -212,8 +219,10 @@
     <string name="only_upload_in_charging">A képek csak töltéskor töltődnek fel; kérem csatlakoztassa a töltőt.</string>
     <string name="no_network_connected">Nincs kapcsolat</string>
     <string name="modify_cloud_settings">MiCloud beállítások</string>
+    <string name="storage_no_space">A tároló nem elérhető.</string>
     <string name="click_to_enter_camera">Kamera megnyitása</string>
     <string name="camera_view_none_message">A fényképek jelenjenek meg itt.</string>
+    <string name="none_picture">Nincs kép a galériában</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">A kép betöltése sikertelen</string>
     <string name="already_saved">A kép mentve: %s</string>

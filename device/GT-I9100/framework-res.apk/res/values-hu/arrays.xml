@@ -4,7 +4,7 @@
         <item>Otthoni</item>
         <item>Munkahelyi</item>
         <item>Egyéb</item>
-        <item>Egyedi</item>
+        <item>Egyéni</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -12,14 +12,14 @@
         <item>Yahoo</item>
         <item>Skype</item>
         <item>QQ</item>
-        <item>Google Talk</item>
+        <item>Google Csevegő</item>
         <item>ICQ</item>
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
         <item>Munkahelyi</item>
         <item>Egyéb</item>
-        <item>Egyedi</item>
+        <item>Egyéni</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Otthoni</item>
@@ -29,18 +29,18 @@
         <item>Otthoni fax</item>
         <item>Személyhívó</item>
         <item>Egyéb</item>
-        <item>Egyedi</item>
+        <item>Egyéni</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Otthoni</item>
         <item>Munkahelyi</item>
         <item>Egyéb</item>
-        <item>Egyedi</item>
+        <item>Egyéni</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Otthoni</item>
         <item>Munkahelyi</item>
         <item>Egyéb</item>
-        <item>Egyedi</item>
+        <item>Egyéni</item>
     </string-array>
 </resources>

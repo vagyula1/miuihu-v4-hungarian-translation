@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="conversation_style">bubble</string>
+    <string name="conversation_style">buborék</string>
     <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_summary_manage_sim_messages">SIM-kártyán tárolt üzenetek kezelése</string>
     <string name="pref_title_manage_sim_messages">A SIM-kártyán lévő üzenetek kezelése</string>
@@ -318,7 +318,7 @@
     <string name="nosend_message">Nincs elküldve</string>
     <string name="group_message_failed_title">Nem sikerült elküldeni a %d névjegyet, megpróbálja újra?</string>
     <string name="context_menu_view_mms">MMS megtekintése</string>
-    <string name="context_menu_dial">Tárcsázás</string>
+    <string name="context_menu_call">Tárcsázás</string>
     <string name="context_menu_send_sms">Üzenet küldése</string>
     <string name="context_menu_browse_web">Böngészés</string>
     <string name="context_menu_send_mail">E-mail küldése</string>
@@ -443,9 +443,9 @@
     <string name="mx_activating">Aktiválás…</string>
     <string name="no_sim">SIM kártya és a felhő üzenetkezelés nem elérhető</string>
     <string name="ex_type_sms">SMS</string>
-    <string name="ex_type_mms">MMS</string>
     <string name="ex_type_mx">Felhő üzenet</string>
     <string name="mx_activate_failure">Felhő üzenet aktiválása sikertelen</string>
+    <string name="mx_dspt_disabled">Send messages via Internet between MIUI, enable send via operator once failed</string>
     <string name="mx_dspt">Ahhoz hogy üzeneteket küldjön a MIUI-nak az internet segítségével,a Szolgáltatójának be kell kapcsolnia</string>
     <string name="mx_count_dspt">Az aktiválás óta a MIUI %d felhő üzenet érkezett</string>
     <string name="mx_auto_resend_sms">SMS küldés</string>
@@ -473,4 +473,5 @@
     <string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
     <string name="loading_mms">MMS betöltés…</string>
     <string name="add_number_to_sender">Szám hozzáadás %s</string>
+    <string name="context_menu_dial">Hívás</string>
 </resources>

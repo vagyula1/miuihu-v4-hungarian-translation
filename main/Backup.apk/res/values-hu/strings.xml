@@ -23,6 +23,8 @@
     <string name="delete_backup_process">Mentés törlése, kérem, várjon...</string>
     <string name="backup_error">Hiba a törléskor, mentés folyamatban</string>
     <string name="delete_failed_backup_confirm">A biztonsági mentés hibás, visszaállítás nem lehetséges</string> 
+    <string name="batch_delete_backup_confirm">"
+Biztos törli a kiválasztott mentést?"</string>
     <string name="start_restore">Visszaállítás</string>
     <string name="backup_file_error">Hiba a biztonsági mentésben, a művelet érvénytelen.</string>
     <string name="unit_byte">" byte"</string>
@@ -171,5 +173,6 @@ megszakítás adat vesztéssel járhat"</string>
     <string name="enable_encrypt_fail">Titkosítás engedélyezése sikertelen</string>
     <string name="read_encrypt_fail">Titkosítás olvasása sikertelen</string>
     <string name="exchange_account">Exchange fiók</string>
+    <string name="delete_backup_confirm">Törli a kiválasztott mentést?</string>
 </resources>
  

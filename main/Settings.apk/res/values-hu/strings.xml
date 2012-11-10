@@ -1610,6 +1610,12 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="virus_scanner_select_single">Legmegbízhatóbb vírus adatbázis választás</string>
     <string name="virus_scanner_select_Cancel">Mégsem</string>
     <string name="virus_scanner_kinsoft_provider">Security support provided by Kingsoft Phone Guardian</string>
+    <string name="virus_scanner_auto_update">Automatikus frissítés</string>
+    <string name="virus_scanner_manual_update">Kézi frissítés</string>
+    <string name="virus_scanner_lib_update">Frissítés elérhető</string>
+    <string name="virus_scanner_lib_updating">Frissítés...</string>
+    <string name="virus_scanner_lib_already_latest">Vírus adatbázis naprakész</string>
+    <string name="virus_scanner_lib_update_failed">Frissiítés sikertelen!</string>
     <string name="virus_scan_app_safe_scanning">Biztonsági keresés futtatása...</string>
     <string name="virus_scan_app_multi_engines">Pick an engine, tovább tarthat a keresés</string>
     <string name="virus_scan_app_scanning">Keresés...</string>

@@ -77,4 +77,8 @@
     <string name="close">Bezár</string>
     <string name="download_success">Letöltés befejezve</string>
     <string name="theme_importing">Témák importálása</string>
+    <string name="theme_import_success">Sikeres importálás</string>
+    <string name="component_category_ringtone_title">Csengőhangok</string>
+    <string name="component_category_style_title">Stílusok</string>
+    <string name="component_category_wallpaper_title">Háttérképek</string>
 </resources>
