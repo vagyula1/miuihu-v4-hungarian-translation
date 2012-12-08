@@ -111,6 +111,7 @@
     <string name="select_frame">Keret</string>
     <string name="photo_confirm">Megerősít</string>
     <string name="photo_load_failed">A kép betöltése sikertelen!</string>
+    <string name="frame_load_failed">Képkeret widget betöltése sikertelen!</string>
     <string name="gadget_weather_loading">Nincs időjárási adat</string>
     <string name="gadget_weather_title_24">Időjárás 2x4</string>
     <string name="gadget_weather_title_14">Időjárás 1x4</string>
@@ -128,4 +129,7 @@
     <string name="upside_edit_bar_select_app">Alkalmazás kiválasztás</string>
     <string name="upside_enter_tip">Húzza le két ujjal a Free Launcher bekapcsolásához</string>
     <string name="upside_exit_tip">Húzza fel két ujjal a Free Launcher kikapcsolásához</string>
+    <string name="upside_londing_text">Enhancing imagination and free…</string>
+    <string name="toggle_select_title">Kapcsoló választás</string>
+    <string name="toggle_title">Kapcsoló</string>
 </resources>

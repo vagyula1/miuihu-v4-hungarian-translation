@@ -2,9 +2,9 @@
 <resources>
     <string name="hello">VideoPlayerActivity</string>
     <string name="app_name">MiVideo</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Sajnálom, ez a videó nem streamelhető az eszközön</string>
-    <string name="VideoView_error_text_unknown">Sajnálon,ez a videó nem játszható le</string>
-    <string name="VideoView_error_title">Nem játszható le a video.</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Sajnálom, a kiválasztott videóformátum nem streamelhető ez eszközön</string>
+    <string name="vp_VideoView_error_text_unknown">Sajnálom, a kiválasztott videóformátum nem játszható le</string>
+    <string name="vp_VideoView_error_title">Video visszajátszási hiba!</string>
     <string name="VideoView_error_button">OK</string>
     <string name="menu_item_media_info_label">Média infó kijelzés</string>
     <string name="menu_item_hide_media_info_label">Média infó elrejtése</string>
@@ -44,4 +44,9 @@
     <string name="toast_message_continue_play_minute">perc</string>
     <string name="toast_message_continue_play_second_and_play">mp</string>
     <string name="temp_play_history_button_label">Mutassa a lejátszás előzményeit</string>
+    <string name="vp_VideoView_error_network_not_available">Hálózat nem elérhető</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Sajnálom, ez a videó nem streamelhető az eszközön</string>
+    <string name="VideoView_error_text_unknown">Sajnálon,ez a videó nem játszható le</string>
+    <string name="VideoView_error_title">Nem játszható le a videó.</string>
 </resources>

@@ -68,11 +68,14 @@
     <string name="fw_call" formatted="false">Hívás elutasítva: %s (%d)</string>
     <string name="fw_import_blacklist">Feketelista importálás</string>
     <string name="fw_import_whitelist">Fehérlista importálás</string>
+    <string name="fw_import_blacklist_confirm">%d szám kiválasztva, importálja a feketelistába?</string>
+    <string name="fw_import_whitelist_confirm">%d szám kiválasztva, importálja a fehérlistába?</string>
     <string name="fw_blacklist_hint">BA hívások és az üzenetek automatikusan blokkolva lesznek, ha hozzáadja a Feketelistához</string>
     <string name="fw_whitelist_hint">A Fehérlistán szereplő számok nem lesznek blokkolva</string>
     <string name="fw_no_effect">A védett üzemmód nincs engedélyezve. Folytatja?</string>
     <string name="fw_call_muted">Hívások némítva</string>
     <string name="fw_call_rejected">Hívások elutasítva</string>
+    <string name="fw_call_imported">Importálás Hívásnaplóból</string>
     <string name="fw_ms_muted">Üzenetek némítva</string>
     <string name="fw_ms_rejected">Üzenetek elutasítva</string>
     <string name="fw_ms_filtered">Üzenetek szűrve</string>
