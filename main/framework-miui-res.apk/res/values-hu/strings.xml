@@ -174,7 +174,7 @@ jelenleg elérhető %2$s"</string>
     <string name="theme_update_complete_title">Frissités befejezve</string>
     <string name="theme_update_complete_content_success">%1$d sikeres</string>
     <string name="theme_update_complete_content_fail">, %1$d sikertelen</string>
-    <string name="resource_no_result">Nincs találat</string
+    <string name="resource_no_result">Nincs találat</string>
     <string name="status_bar_toggle_drive_mode">Autó mód</string>
     <string name="status_bar_toggle_auto_brightness">Auto-Háttérvilágítás</string>
     <string name="miro_menu_overflow">Több</string>
