@@ -1785,14 +1785,12 @@ Try the following:
     <string name="wifi_wps_failed">"Couldn't start WPS, try again."</string>
     <string name="wifi_wps_pin">Type PIN from access point</string>
     <string name="wifi_wps_pin_output">Type the PIN %1$s on the access point</string>
-</resources>
-     <string name="access_control_apps_title">Alkalmazás-hozzáférés módosítása</string>
+    <string name="access_control_apps_title">Alkalmazás-hozzáférés módosítása</string>
     <string name="account_settings">Fiókok</string>
     <string name="wfd_menu_search">Eszközök keresése</string>
     <string name="wfd_menu_searching">Keresés...</string>
     <string name="wfd_menu_teardown">Szétkapcsolás</string>
     <string name="wfd_settings_title">Wi-Fi Display Settings</string>
-   
     <string name="wifi_context_menu_connect">Csatlakozás Wi-Fi hálózathoz</string>
     <string name="wifi_context_menu_forget">Hálózat elfelejtése</string>
     <string name="wifi_failed_connect_message">Failed to connect to network</string>
@@ -1806,3 +1804,4 @@ Try the following:
     <string name="wifi_certificate">Wi-Fi Certificate</string>
     <string name="wifi_context_menu_change_password">Jelszó módosítás</string>
     <string name="wifi_context_menu_change_wapi_certificate">Change WAPI Certificate</string>
+</resources>

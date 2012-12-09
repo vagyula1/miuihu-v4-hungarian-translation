@@ -45,7 +45,6 @@
     <string name="toast_message_continue_play_second_and_play">mp</string>
     <string name="temp_play_history_button_label">Mutassa a lejátszás előzményeit</string>
     <string name="vp_VideoView_error_network_not_available">Hálózat nem elérhető</string>
-    <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Sajnálom, ez a videó nem streamelhető az eszközön</string>
     <string name="VideoView_error_text_unknown">Sajnálon,ez a videó nem játszható le</string>
     <string name="VideoView_error_title">Nem játszható le a videó.</string>

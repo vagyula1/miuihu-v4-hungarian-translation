@@ -181,7 +181,6 @@ jelenleg elérhető %2$s"</string>
     <string name="resource_get_auth_exceed_max_limit_title">Resource usage limit reached</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Téma nem futtatható az eszközön. A fiókja korlátozva van 10 mobil eszközre. Krem próbáljon másik Xiaomi fiókot.</string>
     <string name="resource_switch_account">Fiók váláts</string>
-
     <string name="description_modifiedtime">Módosítva:</string>
-     <string name="perm_use_pin_security">PIN biztonság használata</string>
+    <string name="perm_use_pin_security">PIN biztonság használata</string>
 </resources>

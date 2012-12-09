@@ -152,8 +152,6 @@
     <string name="screen_button_enabled_message">A funkció gombok engedélyezve</string>
     <string name="screen_button_notification_title">A funkció gombok letiltva</string>
     <string name="screen_button_notification_text">"Nyomja a 'Home'+'Power'-t az engedélyezéshez"</string>
-    <string name="return_to_incall_screen">Visszatérés a híváshoz</string>
-    <string name="call_status_dialing">Hívás</string>
     <string name="status_bar_style_settings">Beállítások</string>
     <string name="settings_toggle_layout_style">Egyéni Állapotsor</string>
     <string name="settings_toggle_layout_style_compact">Kompakt</string>
