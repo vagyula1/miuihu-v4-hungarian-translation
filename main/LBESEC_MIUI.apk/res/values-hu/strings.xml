@@ -157,7 +157,7 @@ Megj.: A jogosultsággal rendelkező alkalmazások okozhatnak instabilitást, ad
   <string name="HIPS_SecurityPrompt_Caption">Biztonsági figyelmeztetés</string>
   <string name="HIPS_SecurityPrompt_Next">Következő</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Fontos figyelmeztetés</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">Biztos benne hogy %1$d ROOT jogokat kapjon?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">Biztos benne hogy %1$s ROOT jogokat kapjon?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT jogok a rendszer instabilitásához vezethetnek</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Az Ön adatai, mint például jelszavak és üzenetei veszélyben lehetnek</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Előfordulhat hardware meghibásodás</string>
