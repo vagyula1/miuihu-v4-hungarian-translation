@@ -6,17 +6,20 @@
         <item>Afrika</item>
         <item>Ázsia</item>
         <item>Ausztrália</item>
-        <item>Csendes-óceán</item>
-        <item>Összes</item>
+	<item>Csendes-óceán</item>
+	<item>Összes</item>    
     </string-array>
+        
+    
     <string-array name="screen_timeout_entries">
         <item>15 másodperc</item>
         <item>30 másodperc</item>
         <item>1 perc</item>
         <item>2 perc</item>
         <item>5 perc</item>
-        <item>10 perc</item>
+	<item>10 perc</item>
         <item>30 perc</item>
+        
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Soha</item>
@@ -34,11 +37,13 @@
         <item>15 másodperc</item>
         <item>30 másodperc</item>
         <item>1 perc</item>
-        <item>2 perc</item>
+	<item>2 perc</item>
         <item>5 perc</item>
         <item>10 perc</item>
         <item>30 perc</item>
     </string-array>
+        
+  
     <string-array name="entries_font_size">
         <item>Kicsi</item>
         <item>Normál</item>
@@ -148,12 +153,6 @@
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
-    <string-array name="wifi_network_setup">
-        <item>Kikapcsolás</item>
-        <item>Nyomógomb</item>
-        <item>Hozzáfér. pont PIN kódja</item>
-        <item>A készülék PIN kódja</item>
-    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statikus</item>
@@ -170,23 +169,17 @@
     <string-array name="app_install_location_entries">
         <item>Belső tárhely</item>
         <item>Eltávolítható SD-kártya</item>
-        <item>Döntse el a rendszer</item>
+	<item>Döntse el a rendszer</item>
     </string-array>
-    <string-array name="silent_mode_entries">
-        <item>Ki</item>
-        <item>Rezgés</item>
-        <item>Néma</item>
-    </string-array>
-    <string-array name="silent_mode_values">
-        <item>off</item>
-        <item>vibrate</item>
-        <item>mute</item>
-    </string-array>
+        
+   
     <string-array name="long_press_timeout_selector_titles">
-        <item>Rövid</item>
-        <item>Közepes</item>
-        <item>Hosszú</item>
+	<item>Rövid</item>
+	<item>Közepes</item>
+	<item>Hosszú</item>
     </string-array>
+        
+   
     <string-array name="hdcp_checking_titles">
         <item>Ellenőrzés soha</item>
         <item>Csak DRM-tartalom ellenőrzése</item>
@@ -213,21 +206,23 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animáció ki</item>
-        <item>Animáció mérete: 0,5x</item>
+	<item>Animáció mérete: 0,5x</item>
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
-        <item>Animáció mérete: 2x</item>
+        <item>Animáció mérete: 2x</item>   
         <item>Animáció mérete: 5x</item>
         <item>Animáció mérete: 10x</item>
     </string-array>
+    
     <string-array name="app_process_limit_entries">
-        <item>Normál korlátozás</item>
+	<item>Normál korlátozás</item>
         <item>Nincsenek háttérfolyamatok</item>
         <item>Legfeljebb 1 folyamat</item>
         <item>Legfeljebb 2 folyamat</item>
         <item>Legfeljebb 3 folyamat</item>
         <item>Legfeljebb 4 folyamat</item>
     </string-array>
+        
     <string-array name="vpn_types">
         <item>PPTP</item>
         <item>L2TP/IPSec PSK</item>
@@ -248,20 +243,25 @@
         <item>Szétkapcsolva</item>
         <item>Inicializálás...</item>
         <item>Csatlakozás…</item>
-        <item>Csatlakoztatva</item>
-        <item>Időtúllépés</item>
+	<item>Csatlakoztatva</item>
+	<item>Időtúllépés</item>
         <item>Sikertelen</item>
     </string-array>
+        
+        
     <string-array name="haptic_feedback_level_entries">
-        <item>Gyenge</item>
+  	<item>Gyenge</item>
         <item>Közepes</item>
         <item>Erős</item>
     </string-array>
+      
     <string-array name="battery_indicator_style_entries">
         <item>Grafikus</item>
-        <item>Százalék</item>
+	<item>Százalék</item>
         <item>Állapotsor</item>
     </string-array>
+        
+    
     <string-array name="usb_connection_mode_entries">
         <item>Mindig kérdezzen rá</item>
         <item>Csak töltés</item>
@@ -278,14 +278,14 @@
         <item>9 másodperc</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Orange</item>
-        <item>Yellow</item>
-        <item>Green</item>
-        <item>Cyan</item>
-        <item>White</item>
-        <item>Violet</item>
+        <item>Kék</item>
+        <item>Piros</item>
+        <item>Narancssárga</item>
+        <item>Sárga</item>
+        <item>Zöld</item>
+        <item>Cián</item>
+        <item>Fehér</item>
+        <item>Lila</item>
     </string-array>
     <string-array name="back_long_press_timeout">
         <item>0.5 másodperc</item>
@@ -299,17 +299,17 @@
         <item>5 másodperc</item>
         <item>10 másodperc</item>
         <item>20 másodperc</item>
-        <item>Mindig</item>
+ 	<item>Mindig</item>
     </string-array>
-    <string-array name="led_color_entries_for_mione">
-        <item>Kék</item>
-        <item>Piros</item>
-        <item>Zöld</item>
-        <item>Rózsaszín</item>
-        <item>Ibolya</item>
-        <item>Lila</item>
-        <item>Smaragd</item>
-        <item>Cián</item>
-        <item>Zafír</item>
+        
+        
+    <string-array name="screen_color_title">
+        <item>Meleg</item>
+        <item>Természetes</item>
+        <item>Hideg</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Kiváló</item>
+        <item>Alapértelmezett</item>
     </string-array>
 </resources>
