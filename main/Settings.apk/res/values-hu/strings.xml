@@ -1430,6 +1430,7 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="search_date_time">Dátum és Idő</string>
     <string name="search_language">Nyelv</string>
     <string name="search_about">Gombok</string>
+    <string name="search_power_mode">Teljesítmény</string>
     <string name="debug_log">Hiba jelentés</string>
     <string name="upload_debug_log_title">Hiba jelentés feltöltése</string>
     <string name="upload_debug_log_summary">Hiba jelentés feltöltése csak akkor, ha a WLAN-kapcsolat rendelkezésre áll.</string>
@@ -1451,9 +1452,11 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="haptic_feedback_level">Rezgés erőssége</string>
     <string name="privacy_protect_title">Adatvédelem</string>
     <string name="privacy_mode_enable_title">Biztonsági üzemmód engedélyezése</string>
+    <string name="privacy_mode_enable_sum">Hívásnapló,üzenetek és egyéb adatok elrejtésea védelem módban</string>
     <string name="ac_enable_title">Felhasználó ellenőrzés bekapcsolása</string>
     <string name="ac_set_apps_title">Alkalmazások védelme</string>
     <string name="ac_privacy_mode_title">Biztonsági mód védelme</string>
+    <string name="ac_privacy_mode_sum">írja be a jelszót a védelem mód letiltásához</string>
     <string name="access_control_password_title">Jelszó bekapcsolása</string>
     <string name="access_control_need_to_unlock">Jelszó szükséges a feloldásához</string>
     <string name="access_control_need_password">%s óta védett</string>
@@ -1527,7 +1530,7 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="breathing_light_freq_summary">LED villogások közti szünet</string>
     <string name="led_colors_summary">Értesítés LED színe</string>
     <string name="led_frequence_summary">LED villogások közti szünet beállítása</string>
-    <string name="led_pulse_summary">Pulse LED on new notifications</string>
+    <string name="led_pulse_summary">LED villogás új értesítéskor</string>
     <string name="show_rounded_corners">Sarkok kerekítése</string>
     <string name="show_rounded_corners_summary">Újraindtás szükséges</string>
     <string name="pref_operational_key">Funkció gombok</string>
@@ -1676,8 +1679,8 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="wfd_disconnect_multiple_diag_message">If you break Wi-Fi Display session, your connection with %1$s and %2$s other devices will end.</string>
     <string name="wfd_wps_keypad">Button press</string>
     <string name="wfd_wps_pbc">Input PIN</string>
-    <string name="power_mode">Power Mode</string>
-    <string name="skip_step">Skip this step</string>
+    <string name="power_mode">Teljesítmény</string>
+    <string name="skip_step">Lépés kihagyása</string>
     <string name="msd_help_title">Help</string>
     <string name="msd_help_summary">Problems accessing mobile storage via computer? Please select your computer’s operating system:</string>
     <string name="msd_install_succeed">Driver installed</string>
@@ -1716,8 +1719,8 @@ Try the following:
     <string name="drive_mode_auto_sms_reply_content_title">Message reply content</string>
     <string name="screen">Képernyő</string>
     <string name="system">Rendszer</string>
-    <string name="screen_color_temperature_adjust">Színhőmérséklet beállítás</string>
-    <string name="screen_saturation_adjust">Színtelítettség beállítás</string>
+    <string name="screen_color_temperature_adjust">Színhőmérséklet</string>
+    <string name="screen_saturation_adjust">Telítettség</string>
     <string name="wifi_wapi_fail_to_init">Unable to open WAPI certificates. Credential storage might not enabled</string>
     <string name="wifi_wapi_fail_to_auth">WAPI authentication failed, please check your certificates</string>
     <string name="wifi_wapi_psk_type">Password type</string>

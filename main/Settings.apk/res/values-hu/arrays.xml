@@ -278,14 +278,13 @@
         <item>9 másodperc</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Kék</item>
+	<item>Kék</item>
         <item>Piros</item>
-        <item>Narancssárga</item>
         <item>Sárga</item>
         <item>Zöld</item>
         <item>Cián</item>
-        <item>Fehér</item>
-        <item>Lila</item>
+	<item>Fehér</item>
+	<item>Lila</item>
     </string-array>
     <string-array name="back_long_press_timeout">
         <item>0.5 másodperc</item>
@@ -299,6 +298,11 @@
         <item>5 másodperc</item>
         <item>10 másodperc</item>
         <item>20 másodperc</item>
+    <string-array name="power_mode_entries">
+        <item>Teljesítmény</item>
+        <item>Normál</item>
+        <item>Energiatakarékos</item>
+    </string-array>
  	<item>Mindig</item>
     </string-array>
         
