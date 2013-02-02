@@ -111,7 +111,6 @@
     <string name="modify_all_following">A jelenlegi és az összes további esemény módosítása</string>
     <string name="new_event_dialog_label">Új esemény</string>
     <string name="new_event_dialog_option">Új esemény</string>
-    <string name="delete_this_event_title">Törli az eseményt?</string>
     <string name="delete_this_event_title">Az esemény törlésre kerül.</string>
     <string name="change_response_title">Válasz módosítása</string>
     <string name="menu_general_preferences">Általános preferenciák</string>
