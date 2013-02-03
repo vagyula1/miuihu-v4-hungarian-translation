@@ -115,7 +115,6 @@
     <string name="notifications_off_title">Értesítések kikapcsolva</string>
     <string name="notifications_off_text">Érintse meg a értesítések bekapcsolásához.</string>
     <string name="accessibility_rotation_lock_off">A képernyő automatikusan elfordul.</string>
-    <string name="accessibility_rotation_lock_on_portrait">A képernyő lezárva álló módban.</string>
     <string name="accessibility_rotation_lock_on_portrait">A képernyő lezárva fekvő módban.</string>
     <string name="share">Megosztás</string>
     <string name="description_direction_up">Húzza fel %s.</string>
