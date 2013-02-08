@@ -68,7 +68,6 @@
     <string name="keyguard_incorrect_pin_with_retry_count">Belépés Left: %d</string>
     <string name="caller_info_name_delimiter">vagy</string>
     <string name="first_back_long_press_title">Vissza hardver gomb - Alkalmazás kényszerített bezárása</string>
-    <string name="force_exit_message">Bezárva \"%1$s\"</string>
     <string name="force_exit_message">Alkalmazás kényszerített bezárása \"%1$s\"</string>
     <string name="global_action_toggle_privacy_mode">Adatvédelem</string>
     <string name="global_action_privacy_mode_on_status">Adatvédelmi mód: Bekapcsolva</string>
