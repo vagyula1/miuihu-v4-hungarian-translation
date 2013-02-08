@@ -231,18 +231,20 @@
     <string name="status_bar_network_flow_today">Ma:%1$s</string>
     <string name="status_bar_network_flow">Ma: %1$s Hátralévő: %2$s App-ok: %3$s</string>
     <string name="status_bar_network_flow_exceed">"Ma:%1$s    Hátralévő:%2$s    App-ok:%3$s"</string>
+    <string name="toast_rotation_locked">A képernyő lezárva fekvő módban.</string>
     <string name="incoming_call_vibrate_hint">Hívás</string>
     <string name="mms_vibrate_hint">Üzenet</string>
     <string name="no_vibrate_hint">Nincs rezgés a hívásokban és sms értesítésekben</string>
     <string name="not_all_vibrate_hint">%1$s rezgések, %2$s nincs rezgés, módosíthatja ezt a hangbeállításokban</string>
     <string name="notification_vibrate_hint">Értesítés</string>
-    <string name="screen_button_disabled_message">A fukció gombok tiltva. Ha engedélyezni szeretné öket akkor a \"Home\" és \"Power\" hosszan nyomásával megteheti.</string>
+    <string name="screen_button_disabled_message">A funkció gombok tiltva. Ha engedélyezni szeretné öket akkor a \"Home\" és \"Power\" hosszan nyomásával megteheti.</string>
     <string name="screen_button_enabled_message">A funkció gombok engedélyezve</string>
     <string name="screen_button_notification_text">"Nyomja a 'Home'+'Power'-t az engedélyezéshez"</string>
     <string name="screen_button_notification_title">A funkció gombok letiltva</string>
     <string name="screen_rotation_freeze_message">Képernyőzár fekvő módban</string>
     <string name="status_bar_recent_clear_nothing_result">Nem szabadult fel memória</string>
     <string name="status_bar_recent_clear_result">Felszabadult %1$s memória. Elérhető memória %2$s.</string>
+    <string name="to_vibrate_settings">Rezgés beállítások</string>
     <string name="status_bar_toggle_ac">Hozzáférési kontrol</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Háttérv.</string>
@@ -260,7 +262,5 @@
     <string name="status_bar_toggle_shutdown">Kikapcsolás</string>
     <string name="status_bar_toggle_sync">Szink.</string>
     <string name="status_bar_toggle_torch">Lámpa</string>
-    <string name="status_bar_toggle_vibrate">Rezgés</string>
-    <string name="to_vibrate_settings">Rezgés beállítások</string>
-    
+    <string name="status_bar_toggle_vibrate">Rezgés</string> 
 </resources>

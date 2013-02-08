@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Mégse</string>
+    <string name="cancel">Mégsem</string>
     <string name="copy">Másolás</string>
     <string name="copyUrl">URL másolása</string>
     <string name="cut">Kivágás</string>
@@ -9,8 +9,8 @@
     <string name="emptyPhoneNumber">(Nincs telefonszám)</string>
     <string name="httpErrorBadUrl">Nem sikerült megnyitni az oldalt, mert az URL érvénytelen.</string>
     <string name="httpErrorUnsupportedScheme">Nem támogatott protokoll.</string>
-    <string name="no">Mégse</string>
-    <string name="ok">OK</string>
+    <string name="no">Mégsem</string>
+    <string name="ok">Rendben</string>
     <string name="paste">Beillesztés</string>
     <string name="search_go">Keresés</string>
     <string name="selectAll">Összes kijelölése</string>
@@ -186,6 +186,9 @@
     <string name="invalidPuk">8 számjegyű vagy hosszabb PUK kódot írjon be.</string>
     <string name="needPuk">A SIM-kártya le van zárva a PUK-kóddal. A feloldáshoz adja meg a PUK-kódot.</string>
     <string name="needPuk2">A SIM-kártya feloldásához adja meg a PUK2-kódot.</string>
+    <string name="enablePin">Sikertelen. SIM/RUIM zár aktiválva.</string>
+    <string name="pinpuk_attempts">"
+hátra van :"</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="ClipMmi">Beérkező hívóazonosító</string>
@@ -722,12 +725,18 @@
     <string name="sipAddressTypeOther">Egyéb</string>
     <string name="keyguard_password_enter_pin_code">Írja be a PIN kódot</string>
     <string name="keyguard_password_enter_puk_code">Írja be a PUK kódot, majd az új PIN kódot</string>
+    <string name="keyguard_password_enter_pin_code_for_subscription">Írja be a PIN kódot</string>
+    <string name="keyguard_password_enter_puk_code_for_subscription">Írja be a PUK kódot és az új PIN kódot</string>
     <string name="keyguard_password_enter_puk_prompt">PUK kód</string>
     <string name="keyguard_password_enter_pin_prompt">Új PIN kód</string>
     <string name="keyguard_password_entry_touch_hint" />
     <string name="keyguard_password_enter_password_code">A feloldáshoz írja be a jelszót</string>
     <string name="keyguard_password_enter_pin_password_code">Feloldáshoz írja be a PIN kódot</string>
     <string name="keyguard_password_wrong_pin_code">Helytelen PIN kód.</string>
+    <string name="keyguard_password_wrong_puk_code">Helytelen PUK kód!</string>
+    <string name="keyguard_password_pin_failed">PIN művelet sikertelen!</string>
+    <string name="keyguard_password_puk_failed">PUK művelet sikertelen!</string>
+    <string name="keyguard_pin_accepted">A kód elfogadva!</string>
     <string name="keyguard_label_text">A feloldáshoz nyomja meg a Menü, majd a 0 gombot.</string>
     <string name="emergency_call_dialog_number_for_display">Segélyhívó szám</string>
     <string name="lockscreen_carrier_default">Nincs szolgáltatás.</string>
@@ -758,6 +767,8 @@
     <string name="lockscreen_transport_play_description">Lejátszás gomb</string>
     <string name="lockscreen_transport_stop_description">Leállítás gomb</string>
     <string name="emergency_calls_only">Csak segélyhívások</string>
+    <string name="lockscreen_sim_error_message_short">Érvénytelen kártya.</string>
+    <string name="lockscreen_sim_error_message">SIM kártya érvénytelen.</string>
     <string name="lockscreen_network_locked_message">A hálózat lezárva</string>
     <string name="lockscreen_sim_puk_locked_message">A SIM-kártya le van zárva a PUK-kóddal.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Nézze meg a felhasználói útmutatót, vagy vegye fel a kapcsolatot az ügyfélszolgálattal.</string>
@@ -979,6 +990,7 @@ Szeretné bezárni?"</string>
     <string name="ringtone_picker_title">Csengőhangok</string>
     <string name="ringtone_unknown">Ismeretlen csengőhang</string>
     <string name="wifi_available_sign_in">Bejelentkezés Wi-Fi hálózatba</string>
+    
     <string name="wifi_watchdog_network_disabled">Nem sikerült csatlakozni a Wi-Fi hálózathoz</string>
     <string name="wifi_watchdog_network_disabled_detailed">" rossz internetkapcsolattal rendelkezik."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1079,6 +1091,10 @@ Szeretné bezárni?"</string>
     <string name="ime_action_done">Kész</string>
     <string name="ime_action_previous">Előző</string>
     <string name="ime_action_default">Végrehajtás</string>
+    <string name="managed_roaming_title">Roaming kezelés</string>
+    <string name="managed_roaming_dialog_content">Korlátozott szolgáltatású hálózatot találtam. Elindítja a hálózatkeresést?</string>
+    <string name="managed_roaming_dialog_ok_button">Igen</string>
+    <string name="managed_roaming_dialog_cancel_button">Nem</string>
     <string name="dial_number_using">"Szám hívása
 ezzel: %s"</string>
     <string name="create_contact_using">"Névjegy létrehozása 
@@ -1118,7 +1134,9 @@ a(z) %s fiók számára."</string>
     <string name="no_matches">Nincs találat</string>
     <string name="find_on_page">Keresés az oldalon</string>
     <string name="action_mode_done">Kész</string>
+    <string name="progress_unmounting_internal">Belső tárhely leválasztása…</string>
     <string name="progress_unmounting">Az USB-tár leválasztása...</string>
+    <string name="progress_erasing_internal">Belső tárhely törlése…</string>
     <string name="progress_erasing">Az USB-tár törlése...</string>
     <string name="format_error">Nem lehet törölni az USB-háttértárat</string>
     <string name="media_bad_removal">Az SD-kártya nem lett lecsatolva, mielőtt eltávolították.</string>
