@@ -21,7 +21,7 @@
   <string name="dialog_queued_body">A fájl várólistára került későbbi letöltés céljából.</string>
   <string name="dialog_title_not_available">Letöltés sikertelen</string>
   <string name="dialog_title_queued_body">A fájl még nem érhető el</string>
-  <string name="download_complete">Letötlve</string>
+  <string name="download_complete">Letöltve</string>
   <string name="download_error">Sikertelen</string>
   <string name="download_error_insufficient_space">Kevés a hely</string>
   <string name="download_in_process">Letöltés</string>

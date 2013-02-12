@@ -915,6 +915,8 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="app_install_location_summary">Az új alkalmazások telepítése során előnyben részesített hely módosítása</string>
     <string name="app_disable_dlg_title">Beépített alkalmazás letiltása?</string>
     <string name="app_disable_dlg_text">Ha letiltja a beépített alkalmazást, más alkalmazások hibásan működhetnek.</string>
+    <string name="app_disable_notifications_dlg_title">Kikapcsolja az értesítéseket?</string>
+    <string name="app_disable_notifications_dlg_text">Ha kikapcsolja az értesítéseket,a fontos riasztásokat és frissítéseket nem fogja megkapni.</string>
     <string name="storageuse_settings_title">Tárhely-használat</string>
     <string name="storageuse_settings_summary">Alkalmazások által használt tárhely megtekintése</string>
     <string name="runningservices_settings_title">Futó szolgáltatások</string>
@@ -1012,6 +1014,13 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="allow_mock_location_summary">Helyutánzatok engedélyezése</string>
     <string name="adb_warning_title">Engedélyezi az USB hibakeresést?</string>
     <string name="adb_warning_message">Az USB hibakeresés fejlesztési célokat szolgál. Használhatja adatok másolására a számítógép és a készülék között, alkalmazások a készülékre való értesítés nélküli telepítésére és naplózási adatok olvasására.</string>
+    <string name="dev_settings_warning_title">Engedélyezi a fejlesztői beállításokat?</string>
+    <string name="dev_settings_warning_message">Ezek a beállítások csak fejleszői célra szolgálnak. Használatuk esetén eszköze vagy alkalmazásai meghibásodhatnak, iletve nem várt módon viselkedhetnek.</string>
+    <string name="enforce_read_external_title">SD kártya védetté tétele</string>
+    <string name="enforce_read_external_summary">Az alkalmazások kérjenek engedélyt az SD kártya olvasására</string>
+    <string name="enforce_read_external_confirm_title">Védetté teszi az SD kártyát?</string>
+    <string name="enforce_read_external_confirm_message">"Ha az SD kártya védett, az alkalmazásoknak engedélyt kell kérniük a külső tárhelyen tárolt adatok olvasására.
+Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők nem frissítik azokat.
     <string name="gadget_picker_title">Modul kiválasztása</string>
     <string name="widget_picker_title">Modul kiválasztása</string>
     <string name="battery_history_days">%1$d n %2$d ó %3$d p %4$d mp</string>
@@ -1301,7 +1310,7 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="select_application">Alkalmazás választás</string>
     <string name="no_application">Semmi</string>
     <string name="wait_for_debugger">Várakozás a hibakeresőre</string>
-    <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+    <string name="wait_for_debugger_summary">Az Alk.szolgáltató alkalmazás keresése alkalmazás hibakeresése</string>
     <string name="debug_input_category">Bevitel</string>
     <string name="debug_drawing_category">Rajzolás</string>
     <string name="debug_monitoring_category">Ellenőrzés</string>
@@ -1312,13 +1321,27 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="show_touches">Érintések megjelenítése</string>
     <string name="show_touches_summary">Érintések vizuális visszajelzésének megjelenítése</string>
     <string name="show_screen_updates">Képernyőfrissítések</string>
-    <string name="show_screen_updates_summary">A képernyőterületek villognak, amikor frissülnek</string>
+    <string name="show_screen_updates_summary">A teljes ablakfelület villogjon frissítéskor</string>
+    <string name="show_hw_screen_updates">GPU nézetfriss. mutatása</string>
+    <string name="show_hw_screen_updates_summary">Ablakbeli nézetek villognak GPU-s rajznál</string>
+    <string name="disable_overlays">HW fedvények letiltása</string>
+    <string name="disable_overlays_summary">Mindig a GPU használata képenyő-frissítéskor</string>
+    <string name="enable_traces_title">Nyomkövetés engedélyezése</string>
+    <string name="enable_traces_dialog_title">Eng.nyomköv.kiválasztása</string>
+    <string name="enable_traces_summary_none">Jelenleg nincs engedélyezett nyomkövetés</string>
+    <string name="enable_traces_summary_num">Jelenleg %1$d engedélyezett nyomkövetés van</string>
+    <string name="enable_traces_summary_all">Minden nyomkövetés engedélyezett</string>
+    <string name="debug_layout">Elrendezéshatár mutatása</string>
+    <string name="debug_layout_summary">Kliphatárok,margók stb. megjelenítése</string>
     <string name="show_cpu_usage">CPU-használat mutatása</string>
     <string name="show_cpu_usage_summary">Képernyőfedvény a jelenlegi CPU-használattal</string>
     <string name="force_hw_ui">GPU-megjelenítés</string>
-    <string name="force_hw_ui_summary">2D hardvergyorsítás használata az alkalmazásokban</string>
+    <string name="force_hw_ui_summary">GPU megjelenítés 2D rajzhoz</string>
+    <string name="track_frame_time">Profil GPU renderelésből</string>
+    <string name="track_frame_time_summary">Renderelési odő mérés ADB shell dumpsys gfxinfoban</string>
     <string name="window_animation_scale_title">Ablakanimáció mérete</string>
     <string name="transition_animation_scale_title">Áttűnési animáció mérete</string>
+    <string name="animator_duration_scale_title">Animáció léptéke</string>
     <string name="debug_applications_category">Alkalmazások</string>
     <string name="immediately_destroy_activities">Törölje a tevékenységeket</string>
     <string name="immediately_destroy_activities_summary">Tevékenységek törlése, amint elhagyják azokat</string>
@@ -1669,11 +1692,11 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="dolby_eq_enter_alert_title">Dolby EQ mód megnyitás</string>
     <string name="dolby_eq_enter_alert_msg">Megnyitja a Dolby Equalizer módot?</string>
     <string name="wifi_menu_wfd">Wi-Fi kijelzés</string>
-    <string name="wfd_settings_title">Wi-Fi Display Settings</string>
+    <string name="wfd_settings_title">Wi-Fi Kijelzés beállításai</string>
     <string name="wfd_menu_search">Eszközök keresése</string>
     <string name="wfd_menu_searching">Keresés...</string>
     <string name="wfd_menu_teardown">Szétkapcsolás</string>
-    <string name="wfd_available_devices">Available devices</string>
+    <string name="wfd_available_devices">Elérhető eszközök</string>
     <string name="wfd_disconnect_diag_title">Disconnect Wi-Fi session?</string>
     <string name="wfd_disconnect_diag_msg">If your Wi-Fi session is interrupted your connection with %1$s will end.</string>
     <string name="wfd_disconnect_multiple_diag_message">If you break Wi-Fi Display session, your connection with %1$s and %2$s other devices will end.</string>
@@ -1681,42 +1704,42 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="wfd_wps_pbc">Input PIN</string>
     <string name="power_mode">Teljesítmény</string>
     <string name="skip_step">Lépés kihagyása</string>
-    <string name="msd_help_title">Help</string>
+    <string name="msd_help_title">Segítség</string>
     <string name="msd_help_summary">Problems accessing mobile storage via computer? Please select your computer’s operating system:</string>
-    <string name="msd_install_succeed">Driver installed</string>
-    <string name="msd_install_next">Next</string>
-    <string name="msd_install">Install driver</string>
+    <string name="msd_install_succeed">Driver telepítve</string>
+    <string name="msd_install_next">Következő</string>
+    <string name="msd_install">Driver telepítés</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_windows_xp_step_2_1">1.If the Setup Wizard pops up, please follow the steps to complete the driver installation</string>
     <string name="msd_install_retry_windows_xp">If the computer did not detect the device properly, try the following:</string>
     <string name="msd_install_retry_windows_vista">If the computer did not detect the device properly, try the following:</string>
     <string name="msd_install_retry_mac">If the computer did not detect the device properly, try the following:</string>
-    <string name="msd_install_retry_linux">"If your computer does not detect your device,
-Try the following:
+    <string name="msd_install_retry_linux">"Ha a számítőgép nem érzékelte az eszközt,
+Próbálja a következőt:
 1) Use installation tools ,sudo aptitude install mtpfs libfuse-dev libmad0-dev
 2) Create directory: mkdir /media/mtp
 3) Confirm user group permissions in the current user group
 4) Re-login
 5) Access mounted device mtpfs /media/mtp via File Explorer; same as local directory
 6) Uninstall device fusermount -u /media/mtp
- Note: For ubuntu 8.04 environment"</string>
+ Megjegyzés: For ubuntu 8.04 environment"</string>
     <string name="vpn_settings_password">VPN Password Settings</string>
     <string name="vpn_safe">VPN Security</string>
     <string name="vpn_configure">Configure VPN</string>
     <string name="sync_wifi_label">Wi-Fi Sync settings</string>
-    <string name="drive_mode">Car mode</string>
-    <string name="drive_mode_title">Car mode Settings</string>
-    <string name="drive_mode_settings">Enable Car mode</string>
-    <string name="drive_mode_voice_report">Voice report</string>
-    <string name="drive_mode_phone_report">Calls</string>
-    <string name="drive_mode_sms_report">Messages</string>
+	<string name="drive_mode">Autó üzemmód</string>
+    <string name="drive_mode_title">Autó üzemód beállításai</string>
+    <string name="drive_mode_settings">Engedélyezés</string>
+    <string name="drive_mode_voice_report">Hang jelentés</string>
+    <string name="drive_mode_phone_report">Hívások</string>
+    <string name="drive_mode_sms_report">Üzenetek</string>
     <string name="drive_mode_invert_stop_report">Turn over to stop reports</string>
-    <string name="drive_mode_auto_reply">Auto reply</string>
-    <string name="drive_mode_calling_auto_sms_reply">Auto reply call with SMS</string>
-    <string name="drive_mode_sms_auto_sms_reply">SMS auto reply</string>
-    <string name="drive_mode_only_contact_reply">To contact list</string>
-    <string name="drive_mode_auto_sms_reply_content">Sorry, I am driving now. I will contact you later.</string>
-    <string name="drive_mode_auto_sms_reply_content_title">Message reply content</string>
+    <string name="drive_mode_auto_reply">Automatikus válasz</string>
+    <string name="drive_mode_calling_auto_sms_reply">Hívásra automatikus SMS küldés</string>
+    <string name="drive_mode_sms_auto_sms_reply">SMS automatikus válasz</string>
+    <string name="drive_mode_only_contact_reply">Csak a névjegyzékben szereplő</string>
+    <string name="drive_mode_auto_sms_reply_content">Sajnálom, most vezetek. Később visszahívom.</string>
+    <string name="drive_mode_auto_sms_reply_content_title">Válaszüzenet tartalma</string>
     <string name="screen">Képernyő</string>
     <string name="system">Rendszer</string>
     <string name="screen_color_temperature_adjust">Színhőmérséklet</string>
@@ -1733,11 +1756,11 @@ Try the following:
     <string name="data_usage_limit_dialog">Your %1$s data connection will be disabled when the specified limit is reached. Since data usage is measured by your phone, and your carrier may account for usage differently, consider using a conservative limit.</string>
     <string name="dialog_title_entryvalues_dolby_control">Dolby control</string>
     <string name="dolby_eq_jungle">Jungle</string>
-    <string name="milicenter_settings">MiCredit Settings</string>
+    <string name="milicenter_settings">MiCredit Beállítás</string>
     <string name="progress_tap_to_pair">Touch to pair</string>
-    <string name="service_busy">The service is busy. Try again.</string>
-    <string name="sound_category_feedback_title">System</string>
-    <string name="vibrate_on_ring_title">Vibrate and ring</string>
+    <string name="service_busy">A szerver foglalt. Próbála újra.</string>
+    <string name="sound_category_feedback_title">Rendszer</string>
+    <string name="vibrate_on_ring_title">Rezgés és csengetés</string>
     <string name="virus_scanner_kinsoft_provider">Security support provided by Kingsoft Phone Guardian</string>
     <string name="wifi_disabled_heading" />
     <string name="wifi_enable_watchdog_service">Avoid poor connections</string>
@@ -1746,8 +1769,8 @@ Try the following:
     <string name="accessibility_touch_exploration_summary">"When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger. This feature is for low-vision users."</string>
     <string name="accessibility_touch_exploration_title">Explore by touch</string>
     <string name="accessibility_touch_exploration_warning">This feature changes the way your device responds to touch. Turn on?</string>
-    <string name="accessibility_tutorial_back">Back</string>
-    <string name="accessibility_tutorial_finish">Finish</string>
+    <string name="accessibility_tutorial_back">Vissza</string>
+    <string name="accessibility_tutorial_finish">Befejezés</string>
     <string name="accessibility_tutorial_lesson_1_text_1">After you turn on Explore by Touch, you can touch the screen to learn whats under your finger. For example, the current screen contains app icons. Find one of them by touching the screen and sliding your finger around.</string>
     <string name="accessibility_tutorial_lesson_1_text_2_more">Good. Keep sliding your finger around the screen until you find at least one more icon.</string>
     <string name="accessibility_tutorial_lesson_1_text_3">To activate something that youre touching, tap it. Slide your finger until you find the icon for the %s. Then tap the icon once to activate it.</string>
@@ -1761,9 +1784,9 @@ Try the following:
     <string name="accessibility_tutorial_lesson_2_text_3_more">Good. Keep sliding your fingers up to scroll some more.</string>
     <string name="accessibility_tutorial_lesson_2_text_4">You have completed the tutorial. To exit, find and touch the %s button.</string>
     <string name="accessibility_tutorial_lesson_2_title">Lesson 2: Scrolling using two fingers</string>
-    <string name="accessibility_tutorial_next">Next</string>
-    <string name="accessibility_tutorial_skip">Skip tutorial</string>
-    <string name="accessibility_tutorial_title">Accessibility tutorial</string>
+    <string name="accessibility_tutorial_next">Következő</string>
+    <string name="accessibility_tutorial_skip">Bemutató kihagyás</string>
+    <string name="accessibility_tutorial_title">Kisegítő bemutató</string>
     <string name="debug_ui_category">User interface</string>
     <string name="device_internal_data">Data:</string>
     <string name="device_internal_partition">Data/SD card:</string>
