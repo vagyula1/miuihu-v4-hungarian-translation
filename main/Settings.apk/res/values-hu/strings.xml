@@ -1019,8 +1019,6 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="enforce_read_external_title">SD kártya védetté tétele</string>
     <string name="enforce_read_external_summary">Az alkalmazások kérjenek engedélyt az SD kártya olvasására</string>
     <string name="enforce_read_external_confirm_title">Védetté teszi az SD kártyát?</string>
-    <string name="enforce_read_external_confirm_message">"Ha az SD kártya védett, az alkalmazásoknak engedélyt kell kérniük a külső tárhelyen tárolt adatok olvasására.
-Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők nem frissítik azokat.</string>
     <string name="enforce_read_external_confirm_message">Ha az SD kártya védett, az alkalmazásoknak engedélyt kell kérniük a külső tárhelyen tárolt adatok olvasására.Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők nem frissítik azokat.</string>
     <string name="gadget_picker_title">Modul kiválasztása</string>
     <string name="widget_picker_title">Modul kiválasztása</string>
