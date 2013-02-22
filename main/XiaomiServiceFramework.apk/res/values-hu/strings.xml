@@ -23,7 +23,7 @@
   <string name="btn_back">Vissza</string>
   <string name="btn_mili_center_recharge">Mi dollár feltöltés</string>
   <string name="btn_query">Inquiry now</string>
-  <string name="btn_recharge_large">Recharge now</string>
+  <string name="btn_recharge_large">Feltöltés</string>
   <string name="btn_recharge_other">Egyéb feltöltés</string>
   <string name="button_cancel">Mégsem</string>
   <string name="button_pay">Elfogad</string>

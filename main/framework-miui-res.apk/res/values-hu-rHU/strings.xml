@@ -168,7 +168,7 @@
     <string name="theme_update_request_content">A téma csomagok régiek, a konvertálás eltarthat egy ideig, amelyek nem a téma marketről lettek letöltve nem fognak működni,kattintson az Ok-ra a frissítéshez.</string>
     <string name="theme_update_request_continue_content">A téma csomag utolsó frissítése nem lett befejezve, folytatja?</string>
     <string name="theme_updating_title">Téma frissítése</string>
-    <string name="theme_updating_precontent">Preparing, kérem várjon...</string>
+    <string name="theme_updating_precontent">Előkészítés, kérem várjon...</string>
     <string name="miro_menu_overflow">Több</string>
     <string name="status_bar_toggle_power_mode">Teljesítmény</string>
     <string name="theme_updating_content">Frissítés %1$d/%2$d, kérem várjon</string>

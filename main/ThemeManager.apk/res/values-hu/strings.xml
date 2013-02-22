@@ -123,7 +123,7 @@
     <string name="resource_comment_count">%1$s has a rating of %2$s és komment (%3$s verzió)</string>
     <string name="resource_comment_name_default">%1$s felhasználó</string>
     <string name="resource_comment_account_need_activitied">A fiókja nincs aktiválva, szeretné most aktiválni?</string>
-    <string name="resource_comment_rate">Helyezés:</string>
+    <string name="resource_comment_rate">Osztályozás:</string>
     <string name="resource_comment_entry_tips">%1$s hozzászólás, kattintson a megtekintéshez</string>
     <string name="fail_to_add_account">Fiók hozzáadás nem sikerült</string>
     <string name="menu_refresh">Frissítés</string>
